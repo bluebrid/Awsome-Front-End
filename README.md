@@ -40,6 +40,9 @@ Resources for Front-End
 |React Demo(基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区)|https://github.com/1340641314|
 |React 中文综合教程|https://hulufei.gitbooks.io/react-tutorial/content/dom.html|
 |React 组件通讯|http://web.jobbole.com/82999/|
+|React 组件编写方式|https://segmentfault.com/blog/purerender|
+|React Learn Demo|https://github.com/panacloud/learn-react|
+
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
