@@ -54,17 +54,47 @@ Resources for Front-End
 ## Vue
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Vue 官网|https://vuejs.org.cn/guide/installation.html|
+|Vue Deom|https://github.com/MeCKodo/vue-tutorial|
+|Vue 源码解读|http://jiongks.name/|
+|Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
+
+## Avalon
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|Avalon 架构|http://www.cnblogs.com/aaronjs/p/3143641.html|
+|Avalon Git|https://github.com/RubyLouvre/avalon|
+
 ## Jquery
 | 描叙          | 地址           |
 | ------------- |:-------------:|
+|Jquery 中文API|http://www.jquery123.com/ajaxComplete/|
+|DIY Jquery |http://youmightnotneedjquery.com/|
+|Jquery 函数解析)|http://www.365mini.com/page/jquery-hover.htm|
+
+## TypeScript
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|TS 官网|http://www.typescriptlang.org/Handbook|
+|TS 入门文档|http://blog.csdn.net/u010713545/article/details/49870699|
+
 
 ## DB(MongoDB,Redis)
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|MongoDB官网API|https://docs.mongodb.org/v3.0/reference/connection-string/|
+|MongoDB中文API(汇智网)|http://www.hubwiz.com/document/543644259162908c1f3245dc|
+|Redis API|http://redisdoc.com/|
+
+
+## Java
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 
 
 
