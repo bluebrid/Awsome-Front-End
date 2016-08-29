@@ -35,6 +35,11 @@ Resources for Front-End
 |Redux API 英文|http://redux.js.org/docs/introduction/Examples.html|
 |Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/
 |Redux 大量实例|https://github.com/xgrommx/awesome-redux|
+|React Demo(React Node Socket.IO,Mongo)|https://github.com/sahat/newedenfaces-react|
+|React Native 指南|http://www.tuicool.com/articles/zaInUbA|
+|React Demo(基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区)|https://github.com/1340641314|
+|React 中文综合教程|https://hulufei.gitbooks.io/react-tutorial/content/dom.html|
+|React 组件通讯|http://web.jobbole.com/82999/|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
