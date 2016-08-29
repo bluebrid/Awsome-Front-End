@@ -6,7 +6,12 @@ Resources for Front-End
 | ------------- |:-------------:| 
 | API           | http://www.jianshu.com/p/1e402922ee32/ | 
 | API 02        | http://blog.csdn.net/u012067966/article/details/50736647 |
- 
+## 各大公司前端Blog
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|Alloy Team(Tencent)|http://www.alloyteam.com/|
+
+
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -90,6 +95,11 @@ Resources for Front-End
 |MongoDB官网API|https://docs.mongodb.org/v3.0/reference/connection-string/|
 |MongoDB中文API(汇智网)|http://www.hubwiz.com/document/543644259162908c1f3245dc|
 |Redis API|http://redisdoc.com/|
+
+## Meteor
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|Meteor API官网|http://docs.meteor.com/|
 
 
 ## Java
