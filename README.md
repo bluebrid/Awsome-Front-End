@@ -101,6 +101,7 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Http2.0 与NodeJS|http://www.zcfy.cc/article/accelerating-node-js-applications-with-http-2-server-push-1105.html|
+|Mete List|https://www.qianduan.net/meta-tags-list/|
 
  
 ## 网站安全
