@@ -10,6 +10,8 @@ Resources for Front-End
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
+
 ## Sass
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -20,6 +22,8 @@ Resources for Front-End
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Promise 高级教程资料|http://www.zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
+
 ## NodeJs
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -28,6 +32,7 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |React 英文官网          | https://facebook.github.io/react|
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
+|如何学习React（入门通读）|https://github.com/tomfanxiaojun/react-howto/blob/master/README-zh.md|
 |React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
 |React 生命周期|http://www.zcfy.cc/article/an-introduction-to-life-cycle-events-in-react-js-tyler-mcginnis-1122.html|
 |阮一峰-入门教程|https://www.baidu.com/link?url=52GDZALX6ShSQPEkvthBAHmbFjHJcgUeJlr-LH7N0_X-PjPd7y2HxVNrKjgr2URB1e1LZB8UMVzctUBvRpv3Uq&wd=&eqid=ce4c6358000087c20000000557c43963|
@@ -91,11 +96,26 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 
+
+## Http(Http 2.0)
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|Http2.0 与NodeJS|http://www.zcfy.cc/article/accelerating-node-js-applications-with-http-2-server-push-1105.html|
+
+ 
+## 网站安全
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 
+## 优秀的网址
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|众成翻译|http://www.zcfy.cc/|大量的优秀的国外的优秀文章|
 
 
  
