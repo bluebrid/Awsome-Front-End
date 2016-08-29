@@ -6,7 +6,7 @@ Resources for Front-End
 | ------------- |:-------------:| 
 | API           | http://www.jianshu.com/p/1e402922ee32/ | 
 | API 02        | http://blog.csdn.net/u012067966/article/details/50736647 |
-| API 02        | http://blog.csdn.net/u012067966/article/details/50736647 |
+ 
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -28,6 +28,14 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |React 英文官网          | https://facebook.github.io/react|
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
+|React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
+|React 生命周期|http://www.zcfy.cc/article/an-introduction-to-life-cycle-events-in-react-js-tyler-mcginnis-1122.html|
+|阮一峰-入门教程|https://www.baidu.com/link?url=52GDZALX6ShSQPEkvthBAHmbFjHJcgUeJlr-LH7N0_X-PjPd7y2HxVNrKjgr2URB1e1LZB8UMVzctUBvRpv3Uq&wd=&eqid=ce4c6358000087c20000000557c43963|
+|Redux API中文|http://cn.redux.js.org/index.html|
+|Redux API 英文|http://redux.js.org/docs/introduction/Examples.html|
+|Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/
+|Redux 大量实例|https://github.com/xgrommx/awesome-redux|
+|
 ## AngularJS(1.*)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
