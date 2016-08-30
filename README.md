@@ -153,6 +153,7 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
+|Gulp learn|https://github.com/demohi/learning-gulp|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
