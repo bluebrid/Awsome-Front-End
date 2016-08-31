@@ -65,6 +65,7 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |React 英文官网          | https://facebook.github.io/react|
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
+|React 指南(路由等)|https://github.com/react-guide|
 |如何学习React（入门通读）|https://github.com/tomfanxiaojun/react-howto/blob/master/README-zh.md|
 |React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
 |React 生命周期|http://www.zcfy.cc/article/an-introduction-to-life-cycle-events-in-react-js-tyler-mcginnis-1122.html|
@@ -81,6 +82,7 @@ Resources for Front-End
 |React 组件编写方式|https://segmentfault.com/blog/purerender|
 |React Learn Demo|https://github.com/panacloud/learn-react|
 |React Learn Demo|https://github.com/panacloud/learn-webpack-for-react|
+
 
 |
 ## AngularJS(1.*)
@@ -130,7 +132,10 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |Meteor API官网|http://docs.meteor.com/|
 
-
+## RxJS
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+ 
 ## Java
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -153,11 +158,15 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
+|Gulp learn|https://github.com/demohi/learning-gulp|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
 | ------------- |:-------------:|:---------------|
 |众成翻译|http://www.zcfy.cc/|大量的优秀的国外的优秀文章|
+|Facebook Git |https://github.com/facebook|
+|Koa JS Git|https://github.com/koajs|
+|Alibaba Git |https://github.com/Alibaba|
 
 
  
