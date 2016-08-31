@@ -18,6 +18,7 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
+|CSS3 动画卡顿|https://segmentfault.com/a/1190000006708777?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly|
 |CSS  详细教程(Importatn)|http://css.doyoe.com/|
 |CSS3 教程|http://www.w3cplus.com/resources/css3-tutorial-and-case|
 
@@ -38,7 +39,7 @@ Resources for Front-End
 |SaSS 制作字体图标|http://www.w3cplus.com/preprocessor/fun-with-icomoon-sass-and-font-icons.html|
 |SaSS 制作雪碧图|http://www.w3cplus.com/preprocessor/retina-icon-sprites.html|
 |SaSS 制作组件|http://www.w3cplus.com/preprocessor/sass-component-10-minutes.html|
-|SaSS Minix|http://cdn1.w3cplus.com/node/836|
+|SaSS Triangle Minix|http://cdn1.w3cplus.com/node/836|
 |SaSS 颜色管理|http://www.w3cplus.com/preprocessor/managing-relationships-between-colours-with-sass.html|
 |Sass 资源(大量Function/Minix)|https://github.com/tomfanxiaojun/Sass-Resources|
 |BootStrap Sass源码|https://github.com/tomfanxiaojun/bootstrap-sass|
@@ -79,6 +80,7 @@ Resources for Front-End
 |React 组件通讯|http://web.jobbole.com/82999/|
 |React 组件编写方式|https://segmentfault.com/blog/purerender|
 |React Learn Demo|https://github.com/panacloud/learn-react|
+|React Learn Demo|https://github.com/panacloud/learn-webpack-for-react|
 
 |
 ## AngularJS(1.*)
