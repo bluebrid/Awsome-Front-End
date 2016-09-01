@@ -18,6 +18,7 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
+|CSS3 动画(ZXX)|http://www.zhangxinxu.com/wordpress/2010/11/css3-transitions-transforms-animation-introduction/|
 |CSS3 动画卡顿|https://segmentfault.com/a/1190000006708777?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly|
 |CSS  详细教程(Importatn)|http://css.doyoe.com/|
 |CSS3 教程|http://www.w3cplus.com/resources/css3-tutorial-and-case|
@@ -90,7 +91,8 @@ Resources for Front-End
 | ------------- |:-------------:| 
 ## AngularJS(2.*)
 | 描叙          | 地址           |
-| ------------- |:-------------:| 
+| ------------- |:-------------:|
+|Ng2 Git 资源|https://github.com/AngularClass| 
 
 ## Vue
 | 描叙          | 地址           |
@@ -135,6 +137,8 @@ Resources for Front-End
 ## RxJS
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|RxJs 教程|https://segmentfault.com/a/1190000004293922|
+|RxJs 核心概念之Observable|https://segmentfault.com/a/1190000005051034|
  
 ## Java
 | 描叙          | 地址           |
