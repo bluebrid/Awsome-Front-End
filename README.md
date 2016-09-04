@@ -101,6 +101,7 @@ Resources for Front-End
 |Vue Deom|https://github.com/MeCKodo/vue-tutorial|
 |Vue 源码解读|http://jiongks.name/|
 |Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
+|Vue awesome|https://github.com/vuejs/awesome-vue|
 
 ## Avalon
 | 描叙          | 地址           |
