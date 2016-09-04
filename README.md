@@ -75,7 +75,8 @@ Resources for Front-End
 |阮一峰-入门教程|https://www.baidu.com/link?url=52GDZALX6ShSQPEkvthBAHmbFjHJcgUeJlr-LH7N0_X-PjPd7y2HxVNrKjgr2URB1e1LZB8UMVzctUBvRpv3Uq&wd=&eqid=ce4c6358000087c20000000557c43963|
 |Redux API中文|http://cn.redux.js.org/index.html|
 |Redux API 英文|http://redux.js.org/docs/introduction/Examples.html|
-|Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/
+|Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/|
+|Redux 深入浅出|https://github.com/berwin/Blog/issues/4|
 |Redux 大量实例|https://github.com/xgrommx/awesome-redux|
 |React Demo(React Node Socket.IO,Mongo)|https://github.com/sahat/newedenfaces-react|
 |React Native 指南|http://www.tuicool.com/articles/zaInUbA|
