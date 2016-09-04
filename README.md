@@ -85,6 +85,7 @@ Resources for Front-End
 |React 组件编写方式|https://segmentfault.com/blog/purerender|
 |React Learn Demo|https://github.com/panacloud/learn-react|
 |React Learn Demo|https://github.com/panacloud/learn-webpack-for-react|
+|Mobx|https://github.com/mobxjs/mobx|
 
 
 |
