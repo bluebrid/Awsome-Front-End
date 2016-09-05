@@ -69,6 +69,7 @@ Resources for Front-End
 |React 英文官网          | https://facebook.github.io/react|
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
 |React 指南(路由等)|https://github.com/react-guide|
+|React Router 中文|http://www.uprogrammer.cn/react-router-cn/docs/guides/basics/index.html|
 |如何学习React（入门通读）|https://github.com/tomfanxiaojun/react-howto/blob/master/README-zh.md|
 |React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
 |React 生命周期|http://www.zcfy.cc/article/an-introduction-to-life-cycle-events-in-react-js-tyler-mcginnis-1122.html|
