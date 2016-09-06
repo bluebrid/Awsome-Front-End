@@ -171,6 +171,8 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 |Gulp learn|https://github.com/demohi/learning-gulp|
+|Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
+|Webpack|http://www.uprogrammer.cn/webpack-handbook/|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
