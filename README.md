@@ -100,6 +100,7 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:|
 |Ng2 Git 资源|https://github.com/AngularClass| 
+|NG 破狼 |https://github.com/greengerong|
 
 ## Vue
 | 描叙          | 地址           |
