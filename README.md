@@ -150,12 +150,13 @@ Resources for Front-End
 | ------------- |:-------------:| 
 |Meteor API官网|http://docs.meteor.com/|
 
-## RxJS
+## RxJS/ZoneJS
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |RxJs 教程|https://segmentfault.com/a/1190000004293922|
 |RXJS|https://segmentfault.com/a/1190000004293922#articleHeader2|
 |RxJs 核心概念之Observable|https://segmentfault.com/a/1190000005051034|
+|zone.js |http://www.cnblogs.com/whitewolf/p/zone-js.html|
  
 ## Java
 | 描叙          | 地址           |
