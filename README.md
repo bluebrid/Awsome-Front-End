@@ -80,6 +80,7 @@ Resources for Front-End
 |如何学习React（入门通读）|https://github.com/tomfanxiaojun/react-howto/blob/master/README-zh.md|
 |React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
 |React 生命周期|http://www.zcfy.cc/article/an-introduction-to-life-cycle-events-in-react-js-tyler-mcginnis-1122.html|
+|React 生命周期|http://blog.csdn.net/u013063153/article/details/52457071|
 |阮一峰-入门教程|https://www.baidu.com/link?url=52GDZALX6ShSQPEkvthBAHmbFjHJcgUeJlr-LH7N0_X-PjPd7y2HxVNrKjgr2URB1e1LZB8UMVzctUBvRpv3Uq&wd=&eqid=ce4c6358000087c20000000557c43963|
 |Redux API中文|http://cn.redux.js.org/index.html|
 |Redux API 英文|http://redux.js.org/docs/introduction/Examples.html|
