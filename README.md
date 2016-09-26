@@ -86,6 +86,7 @@ Resources for Front-End
 |Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/|
 |Redux 深入浅出|https://github.com/berwin/Blog/issues/4|
 |Redux 大量实例|https://github.com/xgrommx/awesome-redux|
+|Redux Connect|http://www.tuicool.com/articles/MrmYN36|
 |React Demo(React Node Socket.IO,Mongo)|https://github.com/sahat/newedenfaces-react|
 |React Native 指南|http://www.tuicool.com/articles/zaInUbA|
 |React Demo(基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区)|https://github.com/1340641314|
