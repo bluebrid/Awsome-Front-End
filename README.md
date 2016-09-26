@@ -124,6 +124,7 @@ Resources for Front-End
 |Vue 源码解读|http://jiongks.name/|
 |Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
 |Vue awesome|https://github.com/vuejs/awesome-vue|
+|Vue Deom|https://github.com/tomfanxiaojun/fecss-blog-vue|
 
 ## Avalon
 | 描叙          | 地址           |
