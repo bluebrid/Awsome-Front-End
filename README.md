@@ -96,6 +96,7 @@ Resources for Front-End
 |React Learn Demo|https://github.com/panacloud/learn-react|
 |React Learn Demo|https://github.com/panacloud/learn-webpack-for-react|
 |Mobx|https://github.com/mobxjs/mobx|
+|React 知识脸谱|http://lib.csdn.net/base/react/structure|
 
 
 |
