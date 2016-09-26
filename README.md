@@ -151,6 +151,7 @@ Resources for Front-End
 |MongoDB官网API|https://docs.mongodb.org/v3.0/reference/connection-string/|
 |MongoDB中文API(汇智网)|http://www.hubwiz.com/document/543644259162908c1f3245dc|
 |Redis API|http://redisdoc.com/|
+|Redis 发布消息|http://blog.csdn.net/icetime17/article/details/45768065|
 |mongoosejs|http://mongoosejs.com/docs/guide.html|
 
 ## Meteor
