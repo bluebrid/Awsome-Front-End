@@ -207,6 +207,7 @@ Resources for Front-End
 |Koa JS Git|https://github.com/koajs|
 |Alibaba Git |https://github.com/Alibaba|
 |75tea|https://github.com/75team|
+|Wechat|https://github.com/CFETeam|
 
 
  
