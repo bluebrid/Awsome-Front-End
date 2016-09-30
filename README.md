@@ -17,6 +17,7 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
+|animate.css|https://daneden.github.io/animate.css/|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
 |CSS3 动画(ZXX)|http://www.zhangxinxu.com/wordpress/2010/11/css3-transitions-transforms-animation-introduction/|
 |CSS3 动画卡顿|https://segmentfault.com/a/1190000006708777?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly|
