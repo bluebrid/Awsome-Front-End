@@ -70,6 +70,7 @@ Resources for Front-End
 |NodeJS中文资料|https://github.com/dead-horse/node123|
 |深入浅出NodeJS|http://www.infoq.com/cn/master-nodejs|
 |Node项目部署|http://willerce.com/post/noderce-deploy-to-appfog/|
+|Node Wechat|https://github.com/i5ting/wechat-dev-with-nodejs/blob/master/wechat/README.md|
 |Express  中文 |http://www.expressjs.com.cn/guide/routing.html|
 |passportJS|http://passportjs.org/|
 |Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
