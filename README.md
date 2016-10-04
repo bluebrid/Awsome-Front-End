@@ -69,6 +69,7 @@ Resources for Front-End
 |Nodejs|https://github.com/nodejs|
 |Express  中文 |http://www.expressjs.com.cn/guide/routing.html|
 |passportJS|http://passportjs.org/|
+|Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -157,6 +158,7 @@ Resources for Front-End
 |Redis 发布消息|http://blog.csdn.net/icetime17/article/details/45768065|
 |Redis操作|http://blog.csdn.net/icetime17/article/details/45767559|
 |mongoosejs|http://mongoosejs.com/docs/guide.html|
+|Mongodb|https://github.com/dead-horse/mongodb-core|
 
 ## Meteor
 | 描叙          | 地址           |
