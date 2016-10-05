@@ -74,6 +74,7 @@ Resources for Front-End
 |Express  中文 |http://www.expressjs.com.cn/guide/routing.html|
 |passportJS|http://passportjs.org/|
 |Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
+|cluster |http://blog.fens.me/nodejs-core-cluster/|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
