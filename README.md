@@ -219,6 +219,7 @@ Resources for Front-End
 
 ## Linux
 | 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
 |Linux install software|https://www.vmvps.com/4-ways-to-install-node-js-on-centos-7-servers.html|
 
 
