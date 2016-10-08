@@ -92,6 +92,7 @@ Resources for Front-End
 |React 生命周期|http://lib.csdn.net/article/react/25199|
 |阮一峰-入门教程|https://www.baidu.com/link?url=52GDZALX6ShSQPEkvthBAHmbFjHJcgUeJlr-LH7N0_X-PjPd7y2HxVNrKjgr2URB1e1LZB8UMVzctUBvRpv3Uq&wd=&eqid=ce4c6358000087c20000000557c43963|
 |Redux API中文|http://cn.redux.js.org/index.html|
+|Redux 源码|http://qiutc.me/post/read-the-source-code-of-Rudex.html|
 |Redux API 英文|http://redux.js.org/docs/introduction/Examples.html|
 |Redux 入门教程(Alloy)|http://www.alloyteam.com/2015/09/react-redux/|
 |Redux 深入浅出|https://github.com/berwin/Blog/issues/4|
