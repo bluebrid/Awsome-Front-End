@@ -61,6 +61,7 @@ Resources for Front-End
 |Promise 高级教程资料|http://www.zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |Async|http://www.ruanyifeng.com/blog/2015/05/async.html|
 |JS  事件 |http://www.jianshu.com/p/2de6c56d6d3f|
+|ES6手册|http://qiutc.me/post/es6-cheatsheet.html|
 
 ## NodeJs
 | 描叙          | 地址           |
@@ -196,6 +197,7 @@ Resources for Front-End
 ## 网站安全
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|跨域解决方案|http://qiutc.me/post/cross-domain-collections.html|
 ## 前端性能优化
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
