@@ -54,6 +54,7 @@ Resources for Front-End
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
 
 ## JavaScript(ES6)
 | 描叙          | 地址           |
