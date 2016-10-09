@@ -63,14 +63,18 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | ------------- |:-------------:| 
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
+|HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
 
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|ES6清单|http://es6katas.org/|
 |Promise 高级教程资料|http://www.zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |Async|http://www.ruanyifeng.com/blog/2015/05/async.html|
 |JS  事件 |http://www.jianshu.com/p/2de6c56d6d3f|
 |ES6手册|http://qiutc.me/post/es6-cheatsheet.html|
+|arguments|http://blog.xieliqun.com/2016/08/14/arguments/|
+|原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
 
 ## NodeJs
 | 描叙          | 地址           |
@@ -86,6 +90,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
 |cluster |http://blog.fens.me/nodejs-core-cluster/|
 |搭建个人博客|https://segmentfault.com/a/1190000004947261|
+|Yeoman 中文|http://www.yowebapp.com/|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -93,6 +98,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
 |React 中文官网  |http://wiki.jikexueyuan.com/project/react/communicate.html|
 |React 中文官网  √ |http://www.css88.com/react/docs/top-level-api.html|
+|React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
 |React 指南(路由等)|https://github.com/react-guide|
 |React Router 中文|http://www.uprogrammer.cn/react-router-cn/docs/guides/basics/index.html|
 |isomorphic-fetch|https://www.npmjs.com/package/node-fetch#motivation|
@@ -119,6 +125,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |React Learn Demo|https://github.com/panacloud/learn-webpack-for-react|
 |Mobx|https://github.com/mobxjs/mobx|
 |React 知识脸谱|http://lib.csdn.net/base/react/structure|
+|webpack|http://yincheng.site/webpack|
 
 
 |
@@ -146,6 +153,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
 |Vue awesome|https://github.com/vuejs/awesome-vue|
 |Vue Deom|https://github.com/tomfanxiaojun/fecss-blog-vue|
+|Vue WebIDE|https://surmon-china.github.io/vue-codemirror/|
 
 ## Avalon
 | 描叙          | 地址           |
@@ -209,6 +217,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |跨域解决方案|http://qiutc.me/post/cross-domain-collections.html|
+|window.name跨域详解|http://blog.xieliqun.com/2016/08/25/windowName-cross-domain/|
+|html5 API postMessage跨域详解|http://blog.xieliqun.com/2016/08/25/postMessage-cross-domain/|
 ## 前端性能优化
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
