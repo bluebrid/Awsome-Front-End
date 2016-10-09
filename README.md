@@ -84,6 +84,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |passportJS|http://passportjs.org/|
 |Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
 |cluster |http://blog.fens.me/nodejs-core-cluster/|
+|搭建个人博客|https://segmentfault.com/a/1190000004947261|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -228,6 +229,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Alibaba Git |https://github.com/Alibaba|
 |75tea|https://github.com/75team|
 |Wechat|https://github.com/CFETeam|
+|前端开发博客|http://caibaojian.com/c/mobile/page/2|
 
 ## Linux
 | 名称          | 地址           |详细描叙       |
