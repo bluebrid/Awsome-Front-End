@@ -130,6 +130,7 @@ Resources for Front-End
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Vue 官网|https://vuejs.org.cn/guide/installation.html|
+|Vue 2.0 中文|http://vuefe.cn/guide/|
 |Vue Deom|https://github.com/MeCKodo/vue-tutorial|
 |Vue 源码解读|http://jiongks.name/|
 |Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
