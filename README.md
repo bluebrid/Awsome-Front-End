@@ -24,6 +24,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
 |CSS3 动画(ZXX)|http://www.zhangxinxu.com/wordpress/2010/11/css3-transitions-transforms-animation-introduction/|
 |CSS3 动画卡顿|https://segmentfault.com/a/1190000006708777?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly|
+|CSS3 动画|http://www.w3cplus.com/animation/staggering-animations.html|
 |CSS  详细教程(Importatn)|http://css.doyoe.com/|
 |CSS3 教程|http://www.w3cplus.com/resources/css3-tutorial-and-case|
 |CSS3 scrollbar|https://css-tricks.com/almanac/properties/s/scrollbar/|
@@ -75,6 +76,12 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |ES6手册|http://qiutc.me/post/es6-cheatsheet.html|
 |arguments|http://blog.xieliqun.com/2016/08/14/arguments/|
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
+
+## Jquery
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|Jquery 插件编写|http://1ke.co/course/760|
+
 
 ## NodeJs
 | 描叙          | 地址           |
@@ -246,6 +253,13 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 名称          | 地址           |详细描叙       |
 | ------------- |:-------------:|:---------------|
 |Linux install software|https://www.vmvps.com/4-ways-to-install-node-js-on-centos-7-servers.html|
+
+## 面试
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|前端面试|https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers|
+
+
 
 
 
