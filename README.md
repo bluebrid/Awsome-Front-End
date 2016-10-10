@@ -32,6 +32,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |CSS3 图标图形生成技术|https://segmentfault.com/a/1190000000481320#articleHeader3|
 |CSS3 Icon|https://github.com/saeedalipoor/icono|
 |纯CSS3 特效|https://github.com/tomfanxiaojun/You-Dont-Need-Javascript|
+|Box-shadows|http://www.w3cplus.com/css3/css3-box-shadows-unnoticed-spread|
 
 
 
