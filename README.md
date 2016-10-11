@@ -174,6 +174,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | ------------- |:-------------:|
 |Jquery 中文API|http://www.jquery123.com/ajaxComplete/|
 |DIY Jquery |http://youmightnotneedjquery.com/|
+|Jquery源码解析(Important)|https://github.com/JsAaron/jQuery|
 |Jquery 函数解析)|http://www.365mini.com/page/jquery-hover.htm|
 
 ## TypeScript
@@ -240,6 +241,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
 |Gulp Plugs|http://gulpjs.com/plugins/|
 |Webpack|https://github.com/webpack/webpack|
+|Webpack 系列文章|https://segmentfault.com/a/1190000006843916|
+|WebPack 好的热门文章|https://github.com/dancon/webpack-usage|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
