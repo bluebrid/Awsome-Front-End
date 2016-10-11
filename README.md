@@ -238,6 +238,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Gulp learn|https://github.com/demohi/learning-gulp|
 |Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
+|Gulp Plugs|http://gulpjs.com/plugins/|
+|Webpack|https://github.com/webpack/webpack|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
