@@ -14,7 +14,15 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Alloy Team(Tencent)|http://www.alloyteam.com/|
+|Git MarkeDown Project|https://github.com/guodongxiaren/README|
 
+## 前端架构
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|设计MvvM|https://github.com/JsAaron/mvvm|
+|Jquery源码解析(Important)|https://github.com/JsAaron/jQuery|
+|Vue 分析|https://github.com/JsAaron/vue-analysis|
+|Avalon源码分析|https://github.com/JsAaron/avalon|
 
 ## CSS3
 | 描叙          | 地址           |
