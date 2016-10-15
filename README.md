@@ -29,6 +29,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | ------------- |:-------------:| 
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
+|BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
+|CSS Hack|http://www.cnblogs.com/dolphinX/p/3292630.html|
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
 |animate.css|https://daneden.github.io/animate.css/|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
