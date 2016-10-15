@@ -27,6 +27,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
+|BFC|http://caibaojian.com/bfc.html|
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
 |animate.css|https://daneden.github.io/animate.css/|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
@@ -226,8 +228,11 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | ------------- |:-------------:| 
 |Http2.0 与NodeJS|http://www.zcfy.cc/article/accelerating-node-js-applications-with-http-2-server-push-1105.html|
 |Mete List|https://www.qianduan.net/meta-tags-list/|
-|URL 解析过程  |http://www.cnblogs.com/wenanry/archive/2010/02/25/1673368.html|
+|HTTP 解析过程  |http://www.cnblogs.com/wenanry/archive/2010/02/25/1673368.html|
+|Http解析|http://www.jianshu.com/p/80e25cb1d81a|
 |HTML 渲染过程 |http://www.cnblogs.com/dojo-lzz/p/3983335.html|
+|TCP/IP 三次握手四次挥手 |http://www.jianshu.com/p/ef892323e68f|
+|TCP/IP 三次握手四次挥手 |http://www.cnblogs.com/CBDoctor/archive/2012/10/17/2727073.html|
 
  
 ## 网站安全
