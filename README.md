@@ -31,6 +31,9 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |BFC|http://caibaojian.com/bfc.html|
 |BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
 |CSS Hack|http://www.cnblogs.com/dolphinX/p/3292630.html|
+|CSS常用单位|http://www.cnblogs.com/dolphinX/p/4097693.html|
+|CSS容易忽略的特性|http://www.cnblogs.com/dolphinX/p/3511300.html|
+|CSS3 selector|http://www.cnblogs.com/dolphinX/p/3347713.html|
 |CSS3 动画API(Important)|http://isux.tencent.com/css3/index.html?rotate|
 |animate.css|https://daneden.github.io/animate.css/|
 |CSS3 动画|http://www.zcfy.cc/article/smooth-as-butter-achieving-60-fps-animations-with-css3-1054.html|
@@ -89,11 +92,15 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |ES6手册|http://qiutc.me/post/es6-cheatsheet.html|
 |arguments|http://blog.xieliqun.com/2016/08/14/arguments/|
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
+|正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
+|正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
 
 ## Jquery
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Jquery 插件编写|http://1ke.co/course/760|
+|JQuery 重要的方法|http://www.cnblogs.com/dolphinX/p/3347677.html|
+|JQuery动画|http://www.cnblogs.com/dolphinX/p/3330174.html|
 
 
 ## NodeJs
@@ -247,6 +254,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |网站优化最佳实践|http://www.jianshu.com/p/687296dda8b7|
+|Web性能|http://www.cnblogs.com/dojo-lzz/p/4591446.html|
+|缓存|http://www.cnblogs.com/dojo-lzz/p/5515839.html|
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
