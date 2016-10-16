@@ -96,6 +96,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
+|Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
 
 ## Jquery
 | 描叙          | 地址           |
@@ -244,6 +245,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |HTML 渲染过程 |http://www.cnblogs.com/dojo-lzz/p/3983335.html|
 |TCP/IP 三次握手四次挥手 |http://www.jianshu.com/p/ef892323e68f|
 |TCP/IP 三次握手四次挥手 |http://www.cnblogs.com/CBDoctor/archive/2012/10/17/2727073.html|
+|Ajax 的机制|http://www.cnblogs.com/skylar/p/ajaxCORS.html|
 
  
 ## 网站安全
