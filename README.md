@@ -94,6 +94,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
 |正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
 |正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
+|移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
+|Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 
 ## Jquery
 | 描叙          | 地址           |
@@ -248,6 +250,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |跨域解决方案|http://qiutc.me/post/cross-domain-collections.html|
+|探讨跨域请求资源的几种方式|http://www.cnblogs.com/dojo-lzz/p/4265637.html|
 |window.name跨域详解|http://blog.xieliqun.com/2016/08/25/windowName-cross-domain/|
 |html5 API postMessage跨域详解|http://blog.xieliqun.com/2016/08/25/postMessage-cross-domain/|
 ## 前端性能优化
@@ -256,6 +259,11 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |网站优化最佳实践|http://www.jianshu.com/p/687296dda8b7|
 |Web性能|http://www.cnblogs.com/dojo-lzz/p/4591446.html|
 |缓存|http://www.cnblogs.com/dojo-lzz/p/5515839.html|
+|大公司里怎样开发和部署前端代码|https://www.zhihu.com/question/20790576|
+|Etag 缓存|http://blog.csdn.net/t12x3456/article/details/17301897|
+|缓存|http://www.cnblogs.com/skylar/p/browser-http-caching.html|
+|AlloyTeam 缓存机制系列|http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/|
+|Cookie|http://www.cnblogs.com/dojo-lzz/p/5580301.html|
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
