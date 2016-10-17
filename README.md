@@ -49,6 +49,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |纯CSS3 特效|https://github.com/tomfanxiaojun/You-Dont-Need-Javascript|
 |Box-shadows|http://www.w3cplus.com/css3/css3-box-shadows-unnoticed-spread|
 |Margin 负值|http://gold.xitu.io/post/58037f4a0bd1d000580dccd8?utm_source=gold_browser_extension|
+|Flex 布局|http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html|
+|Flex布局|http://www.ruanyifeng.com/blog/2015/07/flex-examples.html|
 
 
 
