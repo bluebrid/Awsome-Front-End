@@ -82,6 +82,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Sass 资源(大量Function/Minix)|https://github.com/tomfanxiaojun/Sass-Resources|
 |BootStrap Sass源码|https://github.com/tomfanxiaojun/bootstrap-sass|
 |Sass Responsive|https://github.com/tomfanxiaojun/sass-responsive|
+|SASS Core(重要类库)|https://github.com/jtyjty99999/sassCore|
 
 
 
@@ -92,6 +93,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
+|SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
+
 
 ## JavaScript(ES6)
 | 描叙          | 地址           |
@@ -101,6 +104,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Async|http://www.ruanyifeng.com/blog/2015/05/async.html|
 |JS  事件 |http://www.jianshu.com/p/2de6c56d6d3f|
 |ES6手册|http://qiutc.me/post/es6-cheatsheet.html|
+|es6features|https://github.com/lukehoban/es6features|
 |arguments|http://blog.xieliqun.com/2016/08/14/arguments/|
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
 |正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
@@ -108,6 +112,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
+|设计模式|https://github.com/jayli/javascript-patterns/blob/master/chapter6.markdown|
 
 ## Jquery
 | 描叙          | 地址           |
