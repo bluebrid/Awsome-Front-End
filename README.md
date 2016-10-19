@@ -174,6 +174,9 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |React 知识脸谱|http://lib.csdn.net/base/react/structure|
 |webpack|http://yincheng.site/webpack|
 |React 服务器渲染|https://segmentfault.com/a/1190000004094442|
+|React模式|https://segmentfault.com/a/1190000006846179|
+|深入理解React|https://segmentfault.com/a/1190000006769471|
+|React最佳实践|http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/|
 
 
 |
