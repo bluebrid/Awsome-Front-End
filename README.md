@@ -173,6 +173,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |Mobx|https://github.com/mobxjs/mobx|
 |React 知识脸谱|http://lib.csdn.net/base/react/structure|
 |webpack|http://yincheng.site/webpack|
+|React 服务器渲染|https://segmentfault.com/a/1190000004094442|
 
 
 |
