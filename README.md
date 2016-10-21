@@ -3,6 +3,8 @@ Resources for Front-End
 
 https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 
+https://segmentfault.com/a/1190000007062464
+
 ## MarkDown
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
