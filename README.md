@@ -149,6 +149,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 |React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
 |React 指南(路由等)|https://github.com/react-guide|
 |React Router 中文|http://www.uprogrammer.cn/react-router-cn/docs/guides/basics/index.html|
+|React 精益学习 ！|https://segmentfault.com/a/1190000005140569|
 |isomorphic-fetch|https://www.npmjs.com/package/node-fetch#motivation|
 |如何学习React（入门通读）|https://github.com/tomfanxiaojun/react-howto/blob/master/README-zh.md|
 |React 生命周期教程|http://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&idx=1&mid=2651220482&scene=0&sn=63e0a1d4a2fd65831fed724b996a677e|
