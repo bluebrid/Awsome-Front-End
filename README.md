@@ -101,6 +101,7 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |ES6清单|http://es6katas.org/|
+|ES6设计模式|https://segmentfault.com/a/1190000002800554|
 |Promise 高级教程资料|http://www.zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |Async|http://www.ruanyifeng.com/blog/2015/05/async.html|
 |JS  事件 |http://www.jianshu.com/p/2de6c56d6d3f|
