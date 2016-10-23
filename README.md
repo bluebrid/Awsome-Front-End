@@ -117,6 +117,8 @@ https://segmentfault.com/a/1190000007062464
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
 |设计模式|https://github.com/jayli/javascript-patterns/blob/master/chapter6.markdown|
+|理解javascript观察者模式(订阅者与发布者)|http://www.tuicool.com/articles/Z7ZnErQ|
+|Cookie 在前端中的实践|https://segmentfault.com/a/1190000007243675|
 
 ## Jquery
 | 描叙          | 地址           |
