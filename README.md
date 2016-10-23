@@ -24,6 +24,7 @@ https://segmentfault.com/a/1190000007062464
 |设计MvvM|https://github.com/JsAaron/mvvm|
 |Jquery源码解析(Important)|https://github.com/JsAaron/jQuery|
 |Vue 分析|https://github.com/JsAaron/vue-analysis|
+|Vue 源码分析|https://github.com/youngwind/blog|
 |Avalon源码分析|https://github.com/JsAaron/avalon|
 ## Mobile 
 | 描叙          | 地址           |
@@ -212,6 +213,7 @@ https://segmentfault.com/a/1190000007062464
 |Vue awesome|https://github.com/vuejs/awesome-vue|
 |Vue Deom|https://github.com/tomfanxiaojun/fecss-blog-vue|
 |Vue WebIDE|https://surmon-china.github.io/vue-codemirror/|
+|Vue 源码分析|https://github.com/youngwind/blog|
 
 ## Avalon
 | 描叙          | 地址           |
