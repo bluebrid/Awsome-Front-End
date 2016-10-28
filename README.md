@@ -170,6 +170,7 @@ https://segmentfault.com/a/1190000007062464
 |Redux 深入浅出|https://github.com/berwin/Blog/issues/4|
 |Redux 大量实例|https://github.com/xgrommx/awesome-redux|
 |Redux Connect|http://www.tuicool.com/articles/MrmYN36|
+|Redux Connect|http://taobaofed.org/blog/2016/08/18/react-redux-connect/?utm_source=tuicool&utm_medium=referral|
 |React Demo(React Node Socket.IO,Mongo)|https://github.com/sahat/newedenfaces-react|
 |React Native 指南|http://www.tuicool.com/articles/zaInUbA|
 |React Demo(基于webpack + react + react-router + redux + less + flex.css + ES6 的React版cnode社区)|https://github.com/1340641314|
