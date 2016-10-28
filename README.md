@@ -118,6 +118,7 @@ https://segmentfault.com/a/1190000007062464
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
 |设计模式|https://github.com/jayli/javascript-patterns/blob/master/chapter6.markdown|
+|JS设计模式|http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-chain-of-responsibility/|
 |理解javascript观察者模式(订阅者与发布者)|http://www.tuicool.com/articles/Z7ZnErQ|
 |Cookie 在前端中的实践|https://segmentfault.com/a/1190000007243675|
 
