@@ -305,6 +305,7 @@ https://segmentfault.com/a/1190000007062464
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 |Gulp learn|https://github.com/demohi/learning-gulp|
 |Gulp|https://www.w3ctech.com/topic/134|
+|Gulp 系列|http://www.w3cplus.com/blog/tags/528.html|
 |Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
 |Gulp Plugs|http://gulpjs.com/plugins/|
