@@ -41,6 +41,7 @@ https://segmentfault.com/a/1190000007062464
 |BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
 |CSS Hack|http://www.cnblogs.com/dolphinX/p/3292630.html|
 |CSS Hack|http://www.imooc.com/article/5247|
+|CSS Hack|http://www.w3cplus.com/css/browser-hacks.html|
 |CSS常用单位|http://www.cnblogs.com/dolphinX/p/4097693.html|
 |CSS容易忽略的特性|http://www.cnblogs.com/dolphinX/p/3511300.html|
 |CSS3 selector|http://www.cnblogs.com/dolphinX/p/3347713.html|
