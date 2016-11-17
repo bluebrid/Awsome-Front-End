@@ -123,10 +123,12 @@ https://segmentfault.com/a/1190000007062464
 |JS设计模式|http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-chain-of-responsibility/|
 |理解javascript观察者模式(订阅者与发布者)|http://www.tuicool.com/articles/Z7ZnErQ|
 |Cookie 在前端中的实践|https://segmentfault.com/a/1190000007243675|
+|ES6 and ES5|http://zcfy.cc/article/5-javascript-bad-parts-that-are-fixed-in-es6-315.html|
 |ES6 Async|http://zcfy.cc/article/understanding-javascript-s-async-await-1586.html|
 |ES6 Promise|http://zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |JS 面试题|http://coolcao.com/2016/11/07/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98%E8%AF%BB%E5%90%8E%E6%95%B4%E7%90%86/|
 |ES6 Proxy|http://zcfy.cc/article/6-compelling-use-cases-for-es6-proxies-888.html|
+|Angular2 and React|http://zcfy.cc/article/angular-2-versus-react-there-will-be-blood-142.html|
 
 ## Jquery
 | 描叙          | 地址           |
@@ -194,6 +196,7 @@ https://segmentfault.com/a/1190000007062464
 |React模式|https://segmentfault.com/a/1190000006846179|
 |深入理解React|https://segmentfault.com/a/1190000006769471|
 |React最佳实践|http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/|
+|React diff 算法|http://zcfy.cc/article/performance-calendar-react-s-diff-algorithm-1183.html|
 
 
 |
