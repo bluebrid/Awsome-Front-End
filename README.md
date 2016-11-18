@@ -128,7 +128,7 @@ https://segmentfault.com/a/1190000007062464
 |ES6 Promise|http://zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |JS 面试题|http://coolcao.com/2016/11/07/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98%E8%AF%BB%E5%90%8E%E6%95%B4%E7%90%86/|
 |ES6 Proxy|http://zcfy.cc/article/6-compelling-use-cases-for-es6-proxies-888.html|
-|Angular2 and React|http://zcfy.cc/article/angular-2-versus-react-there-will-be-blood-142.html|
+
 
 ## Jquery
 | 描叙          | 地址           |
@@ -212,6 +212,8 @@ https://segmentfault.com/a/1190000007062464
 |NG 中文 |https://angular.cn/|
 |NG 英文 |https://angular.io/docs/ts/latest/guide/server-communication.html|
 |NG r入门介绍 |http://www.infoq.com/cn/articles/Angular2-TypeScript-High-Level-Overview?utm_campaign=rightbar_v2&utm_content=link_text&utm_medium=articles_link&utm_source=infoq|
+|NG2 module|https://hacking-with-angular.github.io/2016/10/16/angular-module/|
+|Angular2 and React|http://zcfy.cc/article/angular-2-versus-react-there-will-be-blood-142.html|
 
 
 ## Vue
