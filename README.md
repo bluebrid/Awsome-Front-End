@@ -5,6 +5,8 @@ https://github.com/helloqingfeng/Awsome-Front-End-learning-resource
 
 https://segmentfault.com/a/1190000007062464
 
+http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
+
 ## MarkDown
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
