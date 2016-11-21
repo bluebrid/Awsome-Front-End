@@ -120,6 +120,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
 |正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
 |正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
+|正则表达式|http://www.jianshu.com/p/583998f435d0|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
