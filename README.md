@@ -222,6 +222,8 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |NG r入门介绍 |http://www.infoq.com/cn/articles/Angular2-TypeScript-High-Level-Overview?utm_campaign=rightbar_v2&utm_content=link_text&utm_medium=articles_link&utm_source=infoq|
 |NG2 module|https://hacking-with-angular.github.io/2016/10/16/angular-module/|
 |Angular2 and React|http://zcfy.cc/article/angular-2-versus-react-there-will-be-blood-142.html|
+|Ng2 Demo|https://github.com/mgechev/angular-seed|
+|Ng2 vs Ng1|https://dzone.com/articles/typed-front-end-with-angular-2|
 
 
 ## Vue
