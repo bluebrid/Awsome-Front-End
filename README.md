@@ -168,6 +168,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
 |React 中文官网  |http://wiki.jikexueyuan.com/project/react/communicate.html|
 |React 中文官网  √ |http://www.css88.com/react/docs/top-level-api.html|
+|React 优点|http://www.cnblogs.com/yunfeifei/p/4486125.html|
 |React 入门精讲|https://segmentfault.com/a/1190000005140569|
 |React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
 |React 指南(路由等)|https://github.com/react-guide|
