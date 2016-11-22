@@ -41,6 +41,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
 |BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
+|REM|https://github.com/hbxeagle/rem/blob/master/README.md|
 |CSS Hack|http://www.cnblogs.com/dolphinX/p/3292630.html|
 |CSS Hack|http://www.imooc.com/article/5247|
 |CSS Hack|http://www.w3cplus.com/css/browser-hacks.html|
@@ -168,9 +169,10 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
 |React 中文官网  |http://wiki.jikexueyuan.com/project/react/communicate.html|
 |React 中文官网  √ |http://www.css88.com/react/docs/top-level-api.html|
-|React 优点|http://www.cnblogs.com/yunfeifei/p/4486125.html|
+|React 入门精讲|http://www.cnblogs.com/yunfeifei/p/4486125.html|
 |React 入门精讲|https://segmentfault.com/a/1190000005140569|
 |React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
+|React 服务器渲染|https://segmentfault.com/a/1190000004094442|
 |React 指南(路由等)|https://github.com/react-guide|
 |React Router 中文|http://www.uprogrammer.cn/react-router-cn/docs/guides/basics/index.html|
 |React 精益学习 ！|https://segmentfault.com/a/1190000005140569|
@@ -206,6 +208,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |深入理解React|https://segmentfault.com/a/1190000006769471|
 |React最佳实践|http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/|
 |React diff 算法|http://zcfy.cc/article/performance-calendar-react-s-diff-algorithm-1183.html|
+|React由浅入深|http://www.infoq.com/cn/author/%E7%8E%8B%E6%B2%9B|
 
 
 |
@@ -218,6 +221,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Ng2 Git 资源|https://github.com/AngularClass| 
 |NG Awsome |https://github.com/tomfanxiaojun/awesome-ng2|
 |NG 破狼 |https://github.com/greengerong|
+|NG2深入理解|https://www.sdk.cn/news/2785|
 |NG 中文 |https://angular.cn/|
 |NG 英文 |https://angular.io/docs/ts/latest/guide/server-communication.html|
 |NG r入门介绍 |http://www.infoq.com/cn/articles/Angular2-TypeScript-High-Level-Overview?utm_campaign=rightbar_v2&utm_content=link_text&utm_medium=articles_link&utm_source=infoq|
