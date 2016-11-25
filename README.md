@@ -230,6 +230,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Ng2 Demo|https://github.com/mgechev/angular-seed|
 |Ng2 vs Ng1|https://dzone.com/articles/typed-front-end-with-angular-2|
 |Ng2 大漠老师|https://my.oschina.net/mumu/blog?sort=time&p=1&temp=1480049121042|
+|Zone 暴力之美|http://greengerong.com/blog/2016/01/30/zone-dot-js-bao-li-zhi-mei/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io|
 
 
 ## Vue
