@@ -333,6 +333,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Gulp learn|https://github.com/demohi/learning-gulp|
 |Gulp 重要实践|http://www.cnblogs.com/QRL909109/p/5620824.html|
 |Gulp Important!|https://segmentfault.com/a/1190000004915222|
+|Gulp 结合Webpack|http://www.jianshu.com/p/9724c47b406c|
 |Gulp|https://www.w3ctech.com/topic/134|
 |Gulp 插件|http://www.myexception.cn/web/2102894.html|
 |Gulp 系列|http://www.w3cplus.com/blog/tags/528.html|
