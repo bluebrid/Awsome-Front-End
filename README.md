@@ -286,6 +286,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |RxJs 教程|https://segmentfault.com/a/1190000004293922|
+|Rxjs 官方教程|https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/amb.md|
 |RXJS|https://segmentfault.com/a/1190000004293922#articleHeader2|
 |RxJs 核心概念之Observable|https://segmentfault.com/a/1190000005051034|
 |zone.js |http://www.cnblogs.com/whitewolf/p/zone-js.html|
