@@ -100,12 +100,19 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
+|H5 最新文章|https://www.html5rocks.com/en/tutorials/?page=1|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
 |SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
 |H5|http://coderlt.coding.me/2016/02/24/Front-end-sharing/|
-
-
+|Notifications|https://w3c-html-ig-zh.github.io/notifications/whatwg/|
+|H5 Demo|https://developer.mozilla.org/en-US/docs/Web/Demos_of_open_web_technologies|
+|H5 Demo|https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML|
+|移动端自适应方案|http://web.jobbole.com/83527/|
+|移动知识|http://www.alloyteam.com/2015/06/yi-dong-web-wen-ti-xiao-jie/|
+|CSS3 Media Queries模板|http://www.w3cplus.com/css3/css3-media-queries-for-different-devices|
+|ViewPort 宽度|http://viewportsizes.com/?filter=iphone|
+|Media query 清单|http://www.stephen.io/mediaqueries/|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
