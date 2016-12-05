@@ -132,6 +132,8 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |ES6 and ES5|http://zcfy.cc/article/5-javascript-bad-parts-that-are-fixed-in-es6-315.html|
 |ES6 Async|http://zcfy.cc/article/understanding-javascript-s-async-await-1586.html|
 |ES6 Promise|http://zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
+|ES6 Promise|http://coderlt.coding.me/2016/12/03/promise-in-depth-an-introduction-1/|
+|ES6 Promise Book|http://liubin.org/promises-book/#introduction|
 |JS 面试题|http://coolcao.com/2016/11/07/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98%E8%AF%BB%E5%90%8E%E6%95%B4%E7%90%86/|
 |ES6 Proxy|http://zcfy.cc/article/6-compelling-use-cases-for-es6-proxies-888.html|
 |ES6 Proxy| http://pinggod.com/2016/%E5%AE%9E%E4%BE%8B%E8%A7%A3%E6%9E%90-ES6-Proxy-%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/|
