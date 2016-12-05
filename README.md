@@ -113,6 +113,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |CSS3 Media Queries模板|http://www.w3cplus.com/css3/css3-media-queries-for-different-devices|
 |ViewPort 宽度|http://viewportsizes.com/?filter=iphone|
 |Media query 清单|http://www.stephen.io/mediaqueries/|
+|天猫手淘解决方案|https://github.com/amfe/lib-flexible|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
