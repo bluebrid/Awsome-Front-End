@@ -103,6 +103,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
 |SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
+|H5|http://coderlt.coding.me/2016/02/24/Front-end-sharing/|
 
 
 ## JavaScript(ES6)
@@ -137,6 +138,8 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |JS 面试题|http://coolcao.com/2016/11/07/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98%E8%AF%BB%E5%90%8E%E6%95%B4%E7%90%86/|
 |ES6 Proxy|http://zcfy.cc/article/6-compelling-use-cases-for-es6-proxies-888.html|
 |ES6 Proxy| http://pinggod.com/2016/%E5%AE%9E%E4%BE%8B%E8%A7%A3%E6%9E%90-ES6-Proxy-%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/|
+|JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
+
 ## Jquery
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -329,6 +332,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |缓存|http://www.cnblogs.com/skylar/p/browser-http-caching.html|
 |AlloyTeam 缓存机制系列|http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/|
 |Cookie|http://www.cnblogs.com/dojo-lzz/p/5580301.html|
+|缓存|http://coderlt.coding.me/2016/11/21/web-cache/|
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
