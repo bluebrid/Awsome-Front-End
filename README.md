@@ -114,6 +114,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |ViewPort 宽度|http://viewportsizes.com/?filter=iphone|
 |Media query 清单|http://www.stephen.io/mediaqueries/|
 |天猫手淘解决方案|https://github.com/amfe/lib-flexible|
+|移动开发手记|http://idlelife.org/archives/969|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
