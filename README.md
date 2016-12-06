@@ -37,6 +37,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |AlloyTeam css3 lib|http://css3lib.alloyteam.com/|
+|CSS3 手册|http://cssreference.io/|
 |大量前端特效（大漠老师）|https://airen.github.io/DemoHouse/|
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
