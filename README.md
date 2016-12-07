@@ -310,6 +310,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 ## Java
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Linxu 文档|https://jaywcjlove.github.io/linux-command/c/wget.html|
 
 
 ## Http(Http 2.0)
