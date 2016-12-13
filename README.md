@@ -224,6 +224,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |React最佳实践|http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/|
 |React diff 算法|http://zcfy.cc/article/performance-calendar-react-s-diff-algorithm-1183.html|
 |React由浅入深|http://www.infoq.com/cn/author/%E7%8E%8B%E6%B2%9B|
+|使用 webpack + react + redux + es6 开发组件化前端项目|http://lib.csdn.net/article/24/29964?knId=693|
 
 
 |
