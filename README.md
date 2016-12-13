@@ -294,6 +294,11 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Redis操作|http://blog.csdn.net/icetime17/article/details/45767559|
 |mongoosejs|http://mongoosejs.com/docs/guide.html|
 |Mongodb|https://github.com/dead-horse/mongodb-core|
+|Graphql 介绍|http://www.infoq.com/cn/news/2015/10/graphql-your-schema?_t=t |
+|Graphql 介绍|http://www.open-open.com/lib/view/open1457673032187.html|
+|Graphql 介绍|http://www.open-open.com/lib/view/open1481257799866.html|
+|Graphql|https://www.sitepoint.com/creating-graphql-server-nodejs-mongodb/|
+|Graphql Demo|http://www.tuicool.com/articles/Unq2Qr|
 
 ## Meteor
 | 描叙          | 地址           |
