@@ -301,6 +301,8 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Graphql Demo|http://www.tuicool.com/articles/Unq2Qr|
 |Graphql Restful对比以及学习资料|https://zhuanlan.zhihu.com/p/20638731|
 |Graphql Awesome|https://github.com/chentsulin/awesome-graphql|
+|Graphql Demo|https://github.com/applification/graphql-loader|
+|Graphql Node MongoDB Demo|https://github.com/RisingStack/graphql-server|
 ## Meteor
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
