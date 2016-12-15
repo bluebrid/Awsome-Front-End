@@ -346,6 +346,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | ------------- |:-------------:| 
 |XSS 攻击|http://blog.csdn.net/ghsau/article/details/17027893|
 |CSRF（Cross-site request forgery），中文名称：跨站请求伪造|http://www.cnblogs.com/hyddd/archive/2009/04/09/1432744.html|
+|xss csrf SQL注入|http://www.cnblogs.com/drawwindows/archive/2013/03/11/2954259.html|
 |跨域解决方案|http://qiutc.me/post/cross-domain-collections.html|
 |探讨跨域请求资源的几种方式|http://www.cnblogs.com/dojo-lzz/p/4265637.html|
 |window.name跨域详解|http://blog.xieliqun.com/2016/08/25/windowName-cross-domain/|
