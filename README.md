@@ -262,7 +262,8 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Vue Deom|https://github.com/tomfanxiaojun/fecss-blog-vue|
 |Vue WebIDE|https://surmon-china.github.io/vue-codemirror/|
 |Vue 源码分析|https://github.com/youngwind/blog|
-
+|图解Vue源码|http://www.jackpu.com/-zhang-tu-bang-zhu-ni-xiao-hua-vue2-0de-yuan-ma/|
+|勾三股四 Vue源码分析|http://jiongks.name/?from=inf&wvr=5&loc=infblog|
 ## Avalon
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
