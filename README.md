@@ -43,7 +43,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
 |BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
-|BFC|http://www.html-js.com/article/1866|
+|BFC !important|http://www.html-js.com/article/1866|
 |BFC|http://www.w3cplus.com/css/understanding-bfc-and-margin-collapse.html|
 |REM|https://github.com/hbxeagle/rem/blob/master/README.md|
 |CSS Hack|http://www.cnblogs.com/dolphinX/p/3292630.html|
