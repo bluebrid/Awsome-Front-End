@@ -36,6 +36,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|CSS 设计模式|http://kb.cnblogs.com/page/551422/|
 |AlloyTeam css3 lib|http://css3lib.alloyteam.com/|
 |CSS3 手册|http://cssreference.io/|
 |大量前端特效（大漠老师）|https://airen.github.io/DemoHouse/|
