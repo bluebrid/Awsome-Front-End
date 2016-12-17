@@ -376,6 +376,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Gulp 系列|http://www.w3cplus.com/blog/tags/528.html|
 |Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
+|WebPack 中文手册|https://webpack.vuefe.cn/concepts/index/|
 |Gulp Plugs|http://gulpjs.com/plugins/|
 |Webpack|https://github.com/webpack/webpack|
 |Webpack 系列文章|https://segmentfault.com/a/1190000006843916|
