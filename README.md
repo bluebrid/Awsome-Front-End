@@ -266,6 +266,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |图解Vue源码|http://www.jackpu.com/-zhang-tu-bang-zhu-ni-xiao-hua-vue2-0de-yuan-ma/|
 |勾三股四 Vue源码分析|http://jiongks.name/?from=inf&wvr=5&loc=infblog|
 |Vue 路由|http://hyuhan.com/2016/12/12/vue-router/|
+|Vue Demo|https://github.com/liujians/vue-adminLte-vue-router|
 ## Avalon
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
