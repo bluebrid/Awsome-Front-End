@@ -256,6 +256,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | ------------- |:-------------:| 
 |Vue 官网|https://vuejs.org.cn/guide/installation.html|
 |Vue 2.0 中文|http://vuefe.cn/guide/|
+|vuex 2.0 中文|http://vuex.vuejs.org/zh-cn/|
 |Vue Deom|https://github.com/MeCKodo/vue-tutorial|
 |Vue 源码解读|http://jiongks.name/|
 |Vue Deom(Modal)|http://vuejs.org/examples/modal.html|
