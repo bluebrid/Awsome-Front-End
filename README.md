@@ -411,6 +411,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 | 名称          | 地址           |详细描叙       |
 | ------------- |:-------------:|:---------------|
 |前端面试|https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions/Questions-and-Answers|
+|前端面试|http://caibaojian.com/toutiao/6795|
 
 
 
