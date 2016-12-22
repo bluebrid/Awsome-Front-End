@@ -40,6 +40,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |AlloyTeam css3 lib|http://css3lib.alloyteam.com/|
 |CSS3 手册|http://cssreference.io/|
 |大量前端特效（大漠老师）|https://airen.github.io/DemoHouse/|
+|BFC|http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072929.html|
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
 |BFC清除浮动|http://www.cnblogs.com/dolphinX/p/3508869.html|
