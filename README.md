@@ -7,6 +7,7 @@ https://segmentfault.com/a/1190000007062464
 
 http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 
+http://caibaojian.com/toutiao/5571 前端重要资源
 ## MarkDown
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -163,6 +164,7 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 |Jquery 插件编写|http://1ke.co/course/760|
 |JQuery 重要的方法|http://www.cnblogs.com/dolphinX/p/3347677.html|
 |JQuery动画|http://www.cnblogs.com/dolphinX/p/3330174.html|
+|Jquery 源码阅读|http://james.padolsey.com/jquery/#v=git&fn=|
 
 
 ## NodeJs
