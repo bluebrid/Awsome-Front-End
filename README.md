@@ -123,6 +123,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Three.js|http://www.hewebgl.com/article/articledir/1|
 |Three.js|https://threejs.org/examples/#webgl_depth_texture|
 |Three.js|https://github.com/tomfanxiaojun/three.js|
+|H5的FileReader接口|http://www.qdfuns.com/notes/28937/2920927049f9c95fa07d1f6778db9df5.html|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -165,6 +166,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |JQuery 重要的方法|http://www.cnblogs.com/dolphinX/p/3347677.html|
 |JQuery动画|http://www.cnblogs.com/dolphinX/p/3330174.html|
 |Jquery 源码阅读|http://james.padolsey.com/jquery/#v=git&fn=|
+|Jquery 常用方法|http://www.qdfuns.com/notes/37255/0a726937d73d4ac0a590478ee90d35ed.html|
 
 
 ## NodeJs
