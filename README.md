@@ -133,6 +133,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |ES6清单|http://es6katas.org/|
 |ES6设计模式|https://segmentfault.com/a/1190000002800554|
 |JS设计模式|https://addyosmani.com/resources/essentialjsdesignpatterns/book/#lazyinitialisationjquery|
+|JS 算法|https://github.com/LukeLin/js-stl|
 |JS设计模式|https://github.com/tomfanxiaojun/learn-javascript-design-pattern|
 |Promise 高级教程资料|http://www.zcfy.cc/article/the-best-resources-to-learn-about-javascript-promises-codeutopia-1040.html|
 |Async|http://www.ruanyifeng.com/blog/2015/05/async.html|
