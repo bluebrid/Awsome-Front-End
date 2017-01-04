@@ -176,10 +176,12 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |koajs|https://github.com/koajs|
 |Nodejs|https://github.com/nodejs|
 |NodeJS中文资料|https://github.com/dead-horse/node123|
+|Node JS 中文|https://0532.gitbooks.io/nodejs/content/|
 |深入浅出NodeJS|http://www.infoq.com/cn/master-nodejs|
 |Node项目部署|http://willerce.com/post/noderce-deploy-to-appfog/|
 |Node Wechat|https://github.com/i5ting/wechat-dev-with-nodejs/blob/master/wechat/README.md|
 |Express  中文 |http://www.expressjs.com.cn/guide/routing.html|
+|Express中文|http://expressjs.jser.us/3x_zh-cn/api.html|
 |passportJS|http://passportjs.org/|
 |Domain 异常处理|http://cnodejs.org/topic/516b64596d38277306407936|
 |cluster |http://blog.fens.me/nodejs-core-cluster/|
@@ -189,6 +191,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |深入浅出Koa|https://github.com/berwin/Blog/issues/8|
 |React Node Demo |https://github.com/sahat/newedenfaces-react|
 |NodeJS Demo|https://github.com/tomfanxiaojun/N-blog|
+|深入浅出Nodejs读书笔记|http://tw93.github.io/2015-03-01/shen-ru-qian-chu-nodejs-reading-mind-map.html|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -308,6 +311,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |MongoDB官网API|https://docs.mongodb.org/v3.0/reference/connection-string/|
 |MongoDB中文API(汇智网)|http://www.hubwiz.com/document/543644259162908c1f3245dc|
 |Redis API|http://redisdoc.com/|
+|Redis 中文官网|http://www.redis.cn/documentation.html|
 |Redis 发布消息|http://blog.csdn.net/icetime17/article/details/45768065|
 |Redis操作|http://blog.csdn.net/icetime17/article/details/45767559|
 |mongoosejs|http://mongoosejs.com/docs/guide.html|
@@ -398,6 +402,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Webpack 系列文章|https://segmentfault.com/a/1190000006843916|
 |WebPack 好的热门文章|https://github.com/dancon/webpack-usage|
 |React webpack|https://github.com/tomfanxiaojun/webpack-react-framework/blob/master/config/devServer.js|
+|Git |https://0532.gitbooks.io/progit/content/ff1ccf57e98c817df1efcd9fe44a8aeb/README.html|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
