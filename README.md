@@ -128,6 +128,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|JS 面向对象!important|http://www.cnblogs.com/dolphinX/p/4385862.html|
 |V8|https://github.com/icepy/Front-End-Develop-Guide#fed_v8|
 |JS 秘密花园|http://bonsaiden.github.io/JavaScript-Garden/zh/#function.this|
 |ES6清单|http://es6katas.org/|
