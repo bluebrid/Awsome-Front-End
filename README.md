@@ -246,6 +246,8 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |React.createClass versus extends React.Component|https://toddmotto.com/react-create-class-versus-component/|
 |React.createClass versus extends React.Component|http://www.zcfy.cc/article/react-createclass-versus-extends-react-component-toddmotto-620.html|
 |react+redux渲染性能优化原理|http://foio.github.io/react-redux-performance-boost/|
+|全面理解虚拟DOM，实现虚拟DOM|http://foio.github.io/virtual-dom/|
+|redux,一种页面状态管理的优雅方案|http://foio.github.io/redux-state-manage/|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
