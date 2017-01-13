@@ -244,8 +244,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |React由浅入深|http://www.infoq.com/cn/author/%E7%8E%8B%E6%B2%9B|
 |使用 webpack + react + redux + es6 开发组件化前端项目|http://lib.csdn.net/article/24/29964?knId=693|
 |React.createClass versus extends React.Component|https://toddmotto.com/react-create-class-versus-component/|
-
-
+|React.createClass versus extends React.Component|http://www.zcfy.cc/article/react-createclass-versus-extends-react-component-toddmotto-620.html|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
