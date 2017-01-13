@@ -385,6 +385,8 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |AlloyTeam 缓存机制系列|http://www.alloyteam.com/2012/03/web-cache-1-web-cache-overview/|
 |Cookie|http://www.cnblogs.com/dojo-lzz/p/5580301.html|
 |缓存|http://coderlt.coding.me/2016/11/21/web-cache/|
+|浏览器缓存|http://mp.weixin.qq.com/s?__biz=MzIyNDM2NDcxNQ==&mid=2247483854&idx=3&sn=c1fe87446ced867668e1a242c91949e7&scene=1&srcid=0830XuOnhNzm2YKJctjfcoQG#rd|
+|浏览器缓存|http://mp.weixin.qq.com/s?__biz=MzA3NTYzODYzMg==&mid=2653578381&idx=1&sn=3f676e2b2e08bcff831c69d31cf51c51&chksm=84b3b68ab3c43f9c9f5fc826f462494dc8457d8994c3789007b7182e3d30e86876688ea1bc8f&scene=0#rd|
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
