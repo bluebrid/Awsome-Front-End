@@ -198,6 +198,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|React 源码|https://github.com/facebook/react/blob/35962a00084382b49d1f9e3bd36612925f360e5b/src/React.js|
 |React 英文官网          | https://facebook.github.io/react|
 |React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
 |React 中文官网  |http://wiki.jikexueyuan.com/project/react/communicate.html|
