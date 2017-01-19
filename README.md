@@ -249,6 +249,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |react+redux渲染性能优化原理|http://foio.github.io/react-redux-performance-boost/|
 |全面理解虚拟DOM，实现虚拟DOM|http://foio.github.io/virtual-dom/|
 |redux,一种页面状态管理的优雅方案|http://foio.github.io/redux-state-manage/|
+|React 创建组建的方式|http://www.zcfy.cc/article/digging-into-react-choosing-component-styles-656.html|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
