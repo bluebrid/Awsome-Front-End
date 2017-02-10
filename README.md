@@ -250,6 +250,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |全面理解虚拟DOM，实现虚拟DOM|http://foio.github.io/virtual-dom/|
 |redux,一种页面状态管理的优雅方案|http://foio.github.io/redux-state-manage/|
 |React 创建组建的方式|http://www.zcfy.cc/article/digging-into-react-choosing-component-styles-656.html|
+|enzymef React 单元测试|http://airbnb.io/enzyme/docs/api/shallow.html|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
