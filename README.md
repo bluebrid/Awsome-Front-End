@@ -251,6 +251,8 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |redux,一种页面状态管理的优雅方案|http://foio.github.io/redux-state-manage/|
 |React 创建组建的方式|http://www.zcfy.cc/article/digging-into-react-choosing-component-styles-656.html|
 |enzymef React 单元测试|http://airbnb.io/enzyme/docs/api/shallow.html|
+|sinon.js Tutorials sinon学习笔记|http://blog.csdn.net/yongqinghee/article/details/8111470|
+|sinonjs|http://sinonjs.org/docs/|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
