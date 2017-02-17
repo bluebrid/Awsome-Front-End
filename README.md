@@ -77,7 +77,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |CSS三列布局|http://www.jackpu.com/san-lie-bu-ju-zuo-you-gu-ding-zhong-jian-lie-zi-gua-ying-tan-jiu/|
 |Less |http://lesscss.org/features/|
 
-## Sass
+## Sass Less
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Sass,Less,Stylus比较|http://caibaojian.com/sass-less-stylus.html|
@@ -97,6 +97,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |BootStrap Sass源码|https://github.com/tomfanxiaojun/bootstrap-sass|
 |Sass Responsive|https://github.com/tomfanxiaojun/sass-responsive|
 |SASS Core(重要类库)|https://github.com/jtyjty99999/sassCore|
+|Less 中文文档|http://www.css88.com/doc/less/functions/|
 
 
 
