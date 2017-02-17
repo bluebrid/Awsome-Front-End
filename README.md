@@ -254,6 +254,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |enzymef React 单元测试|http://airbnb.io/enzyme/docs/api/shallow.html|
 |sinon.js Tutorials sinon学习笔记|http://blog.csdn.net/yongqinghee/article/details/8111470|
 |sinonjs|http://sinonjs.org/docs/|
+|Lodash 中文教材|http://www.css88.com/doc/lodash/#_findindexarray-predicate_identity-fromindex0|
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
