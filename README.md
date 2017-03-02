@@ -210,6 +210,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |React 入门精讲|https://segmentfault.com/a/1190000005140569|
 |React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
 |React 服务器渲染|https://segmentfault.com/a/1190000004094442|
+|React 服务器渲染|http://web.jobbole.com/89934/?utm_source=blog.jobbole.com&utm_medium=relatedPosts|
 |React 指南(路由等)|https://github.com/react-guide|
 |React Router 中文|http://www.uprogrammer.cn/react-router-cn/docs/guides/basics/index.html|
 |React 精益学习 ！|https://segmentfault.com/a/1190000005140569|
