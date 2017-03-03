@@ -250,6 +250,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |使用 webpack + react + redux + es6 开发组件化前端项目|http://lib.csdn.net/article/24/29964?knId=693|
 |React.createClass versus extends React.Component|https://toddmotto.com/react-create-class-versus-component/|
 |React.createClass versus extends React.Component|http://www.zcfy.cc/article/react-createclass-versus-extends-react-component-toddmotto-620.html|
+|React 创建组件的方法|https://segmentfault.com/a/1190000008402834|
 |react+redux渲染性能优化原理|http://foio.github.io/react-redux-performance-boost/|
 |全面理解虚拟DOM，实现虚拟DOM|http://foio.github.io/virtual-dom/|
 |redux,一种页面状态管理的优雅方案|http://foio.github.io/redux-state-manage/|
