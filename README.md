@@ -180,6 +180,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |koajs|https://github.com/koajs|
+|NodeJs 核心|https://github.com/ccforward/cc/issues/38|
 |Nodejs|https://github.com/nodejs|
 |NodeJS中文资料|https://github.com/dead-horse/node123|
 |Node JS 中文|https://0532.gitbooks.io/nodejs/content/|
