@@ -447,6 +447,15 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |前端面试|http://caibaojian.com/toutiao/6795|
 
 
+## Java
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|Spring |https://github.com/tomfanxiaojun/Spring|
+|Spring |https://github.com/tomfanxiaojun/Spring|
+|Spring|https://github.com/zhanglei-workspace/shopping-management-system|
+|mybatis|http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html|
+
+
 
 
 
