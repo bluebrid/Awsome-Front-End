@@ -127,6 +127,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Three.js|https://github.com/tomfanxiaojun/three.js|
 |H5的FileReader接口|http://www.qdfuns.com/notes/28937/2920927049f9c95fa07d1f6778db9df5.html|
 |HTML精确定位|http://www.qdfuns.com/notes/39242/2b98d90aa3a90501ace6932aab3ea5f3.html|
+|HTML5 API|http://blog.percymong.com/2017/03/09/html5-some-useful-apis/|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
