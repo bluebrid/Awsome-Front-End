@@ -455,6 +455,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Spring|https://github.com/zhanglei-workspace/shopping-management-system|
 |mybatis|http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html|
 |mybatis|http://blog.csdn.net/kutejava/article/details/9164353#t0|
+|Nginx |http://www.cnblogs.com/chafe/p/6124675.html|
 
 
 
