@@ -457,6 +457,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |mybatis|http://www.mybatis.org/mybatis-3/zh/dynamic-sql.html|
 |mybatis|http://blog.csdn.net/kutejava/article/details/9164353#t0|
 |Nginx |http://www.cnblogs.com/chafe/p/6124675.html|
+|返回主键|http://www.cnblogs.com/fsjohnhuang/p/4078659.html|
 
 
 
