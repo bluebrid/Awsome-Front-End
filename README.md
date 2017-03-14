@@ -418,6 +418,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
 |WebPack 中文手册|https://webpack.vuefe.cn/concepts/index/|
+\Webpack 中文手册\https://doc.webpack-china.org/guides/get-started/\
 |Gulp Plugs|http://gulpjs.com/plugins/|
 |Webpack|https://github.com/webpack/webpack|
 |Webpack 系列文章|https://segmentfault.com/a/1190000006843916|
