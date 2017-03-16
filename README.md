@@ -464,4 +464,5 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Mybatis 一对多查询|http://www.cnblogs.com/xdp-gacl/p/4264440.html|
 |J2EE|http://www.cnblogs.com/xdp-gacl/tag/JavaWeb%E5%AD%A6%E4%B9%A0%E6%80%BB%E7%BB%93/|
 |Mybatis 注解|http://computerdragon.blog.51cto.com/6235984/1399742|
+|Spring mvc|http://www.cnblogs.com/zhuxiaojie/p/4619804.html#autoid-7-0-0|
  
