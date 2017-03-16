@@ -165,6 +165,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |JS 面试题|http://coolcao.com/2016/11/07/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E4%B8%AD%E5%B8%B8%E8%A7%81%E7%9A%84%E7%AE%97%E6%B3%95%E9%97%AE%E9%A2%98%E8%AF%BB%E5%90%8E%E6%95%B4%E7%90%86/|
 |ES6 Proxy|http://zcfy.cc/article/6-compelling-use-cases-for-es6-proxies-888.html|
 |ES6 Proxy| http://pinggod.com/2016/%E5%AE%9E%E4%BE%8B%E8%A7%A3%E6%9E%90-ES6-Proxy-%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/|
+|Ajax|https://juejin.im/post/58c883ecb123db005311861a?utm_source=gold_browser_extension|
 |JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
 
 ## Jquery
@@ -459,6 +460,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |mybatis|http://blog.csdn.net/kutejava/article/details/9164353#t0|
 |Nginx |http://www.cnblogs.com/chafe/p/6124675.html|
 |返回主键|http://www.cnblogs.com/fsjohnhuang/p/4078659.html|
+|Ngix CORS 配置|http://mp.weixin.qq.com/s?__biz=MzI3MTI2NzkxMA==&mid=2247484408&idx=1&sn=5c64dd43ff2060e1c4a22d93e4e887c9&scene=1&srcid=0901vPdwJR0crm8vJmjboYzI#rd|
 
 
 
