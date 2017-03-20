@@ -202,6 +202,7 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |NodeJS Demo|https://github.com/tomfanxiaojun/N-blog|
 |深入浅出Nodejs读书笔记|http://tw93.github.io/2015-03-01/shen-ru-qian-chu-nodejs-reading-mind-map.html|
 |NodeJs 面试|https://github.com/ElemeFE/node-interview|
+|NodeJs 面试|https://github.com/jimuyouyou/node-interview-questions|
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
