@@ -468,4 +468,6 @@ http://caibaojian.com/toutiao/5571 前端重要资源
 |Mybatis 注解|http://computerdragon.blog.51cto.com/6235984/1399742|
 |Spring mvc|http://www.cnblogs.com/zhuxiaojie/p/4619804.html#autoid-7-0-0|
 |MyBatis 调用存储过程|http://www.cnblogs.com/shihaiming/p/6209914.html|
+|MySql 游标使用|http://www.cnblogs.com/lyhc/p/5760164.html|
+|MySql 执行动态脚本|http://www.cnblogs.com/drcoding/p/4270241.html?tvd|
  
