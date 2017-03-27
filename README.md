@@ -471,4 +471,6 @@ http://web.jobbole.com/90758/ 表格插件
 |MyBatis 调用存储过程|http://www.cnblogs.com/shihaiming/p/6209914.html|
 |MySql 游标使用|http://www.cnblogs.com/lyhc/p/5760164.html|
 |MySql 执行动态脚本|http://www.cnblogs.com/drcoding/p/4270241.html?tvd|
+|Java 集合|http://www.cnblogs.com/leetieniu2014/p/5794131.html|
+|Java 集合|http://blog.csdn.net/HHcoco/article/details/53117525|
  
