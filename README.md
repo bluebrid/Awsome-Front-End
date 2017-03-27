@@ -473,4 +473,5 @@ http://web.jobbole.com/90758/ 表格插件
 |MySql 执行动态脚本|http://www.cnblogs.com/drcoding/p/4270241.html?tvd|
 |Java 集合|http://www.cnblogs.com/leetieniu2014/p/5794131.html|
 |Java 集合|http://blog.csdn.net/HHcoco/article/details/53117525|
+|Java8|http://www.cnblogs.com/leetieniu2014/p/5286260.html|
  
