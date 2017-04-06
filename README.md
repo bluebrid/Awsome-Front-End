@@ -431,6 +431,14 @@ http://web.jobbole.com/90758/ 表格插件
 |WebPack 好的热门文章|https://github.com/dancon/webpack-usage|
 |React webpack|https://github.com/tomfanxiaojun/webpack-react-framework/blob/master/config/devServer.js|
 |Git |https://0532.gitbooks.io/progit/content/ff1ccf57e98c817df1efcd9fe44a8aeb/README.html|
+|NPM |http://www.css88.com/archives/7025|
+|为什么我放弃 Gulp 和 Grunt 而使用 npm Scripts|http://www.css88.com/archives/7041|
+|10个 NPM 使用技巧|https://github.com/dwqs/blog/issues/40|
+|NPM Magic|http://dongss.cn/posts/10.html|
+|NPM |http://www.ruanyifeng.com/blog/2016/10/npm_scripts.html|
+|NPM !important|https://www.zybuluo.com/yangfch3/note/249328|
+|NPM|https://github.com/icepy/we-writing/issues/36|
+|NPM 镜相|https://npm.taobao.org/|
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
