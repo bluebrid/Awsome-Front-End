@@ -288,8 +288,7 @@ http://web.jobbole.com/90758/ 表格插件
 |Ng2 大漠老师|https://my.oschina.net/mumu/blog?sort=time&p=1&temp=1480049121042|
 |Zone 暴力之美|http://greengerong.com/blog/2016/01/30/zone-dot-js-bao-li-zhi-mei/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io|
 |AngularJS路由系列(1)--基本路由配置|http://www.cnblogs.com/darrenji/p/4981008.html|
-
-
+|NG2|https://juejin.im/post/58e5a9c22f301e00622bf4f1?utm_source=gold_browser_extension|
 ## Vue
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
