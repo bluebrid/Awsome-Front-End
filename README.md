@@ -266,7 +266,10 @@ http://web.jobbole.com/90758/ 表格插件
 |enzymef React 单元测试|http://airbnb.io/enzyme/docs/api/shallow.html|
 |sinon.js Tutorials sinon学习笔记|http://blog.csdn.net/yongqinghee/article/details/8111470|
 |sinonjs|http://sinonjs.org/docs/|
-|Lodash 中文教材|http://www.css88.com/doc/lodash/#_findindexarray-predicate_identity-fromindex0|
+|Lodash 中文教材|http://www.css88.com/doc/lodash/#_findindexarray-predicate_identity-fromindex0 |
+|浅谈redux 中间件的原理|http://www.cnblogs.com/JhoneLee/p/5771541.html|
+|React v16-alpha 从virtual dom 到 dom 源码简读|http://www.cnblogs.com/JhoneLee/p/5886759.html|
+
 |
 ## AngularJS(1.*)
 | 描叙          | 地址           |
