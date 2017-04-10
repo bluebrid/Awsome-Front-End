@@ -491,4 +491,5 @@ http://web.jobbole.com/90758/ 表格插件
 |nginx 配置|https://zhuanlan.zhihu.com/p/24524057?refer=wxyyxc1992|
 |nginx配置location总结及rewrite规则写法|https://segmentfault.com/a/1190000002797606|
 |Nginx 系列文章|http://www.nginx.cn/216.html|
+|运维与架构|http://www.nginx.cn/|
  
