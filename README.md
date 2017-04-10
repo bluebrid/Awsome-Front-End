@@ -489,4 +489,6 @@ http://web.jobbole.com/90758/ 表格插件
 |nginx 跨域请求|https://www.thinktxt.com/nginx/2017/03/06/cross-domain-by-nginx-proxy-setting.html|
 |nginx 配置|https://wenjs.me/p/note-of-nginx-configure|
 |nginx 配置|https://zhuanlan.zhihu.com/p/24524057?refer=wxyyxc1992|
+|nginx配置location总结及rewrite规则写法|https://segmentfault.com/a/1190000002797606|
+|Nginx 系列文章|http://www.nginx.cn/216.html|
  
