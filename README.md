@@ -486,4 +486,7 @@ http://web.jobbole.com/90758/ 表格插件
 |Java 集合|http://www.cnblogs.com/leetieniu2014/p/5794131.html|
 |Java 集合|http://blog.csdn.net/HHcoco/article/details/53117525|
 |Java8|http://www.cnblogs.com/leetieniu2014/p/5286260.html|
+|nginx 跨域请求|https://www.thinktxt.com/nginx/2017/03/06/cross-domain-by-nginx-proxy-setting.html|
+|nginx 配置|https://wenjs.me/p/note-of-nginx-configure|
+|nginx 配置|https://zhuanlan.zhihu.com/p/24524057?refer=wxyyxc1992|
  
