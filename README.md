@@ -152,6 +152,7 @@ http://web.jobbole.com/90758/ 表格插件
 |正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
 |正则表达式|http://www.jianshu.com/p/583998f435d0|
 |正则表达式|http://www.jianshu.com/p/db81775d976e|
+|正则表达式|http://louiszhai.github.io/2016/06/13/regexp/#捕获性分组|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
