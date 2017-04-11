@@ -271,6 +271,7 @@ http://web.jobbole.com/90758/ 表格插件
 |浅谈redux 中间件的原理|http://www.cnblogs.com/JhoneLee/p/5771541.html|
 |React v16-alpha 从virtual dom 到 dom 源码简读|http://www.cnblogs.com/JhoneLee/p/5886759.html|
 |React 面试|http://johannlai.com/2017/04/09/React-Interview-Questions/|
+|React小书|http://huziketang.com/books/react/lesson5|
 
 |
 ## AngularJS(1.*)
