@@ -132,6 +132,7 @@ http://web.jobbole.com/90758/ 表格插件
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Airbnb javaScrip 教程|https://github.com/airbnb/javascript|
 |深入理解javascript原型和闭包（完结）|http://www.cnblogs.com/wangfupeng1988/p/3977924.html|
 |JS 面向对象!important|http://www.cnblogs.com/dolphinX/p/4385862.html|
 |V8|https://github.com/icepy/Front-End-Develop-Guide#fed_v8|
