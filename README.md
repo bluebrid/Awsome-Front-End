@@ -107,6 +107,8 @@ http://web.jobbole.com/90758/ 表格插件
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
+|HTML5 高级系列：web Storage|https://github.com/lin-xin/blog/issues/11|
+|HTML5 进阶系列：拖放 API 实现拖放排序|https://github.com/lin-xin/blog/issues/13|
 |H5 最新文章|https://www.html5rocks.com/en/tutorials/?page=1|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
