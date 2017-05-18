@@ -467,6 +467,7 @@ http://web.jobbole.com/90758/ 表格插件
 | 名称          | 地址           |详细描叙       |
 | ------------- |:-------------:|:---------------|
 |Linux install software|https://www.vmvps.com/4-ways-to-install-node-js-on-centos-7-servers.html|
+|Linux|https://github.com/shfshanyue/cheat-sheets/blob/master/docs/command.md|
 
 ## 面试
 | 名称          | 地址           |详细描叙       |
