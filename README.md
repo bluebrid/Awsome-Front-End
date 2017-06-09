@@ -42,6 +42,7 @@ http://web.jobbole.com/90758/ 表格插件
 |AlloyTeam css3 lib|http://css3lib.alloyteam.com/|
 |CSS3 手册|http://cssreference.io/|
 |大量前端特效（大漠老师）|https://airen.github.io/DemoHouse/|
+|小科普：到底什么是BFC、IFC、GFC和FFC，次奥？|http://www.jshacker.com/note/3608|
 |BFC|http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072929.html|
 |BFC|http://www.cnblogs.com/dojo-lzz/p/3999013.html|
 |BFC|http://caibaojian.com/bfc.html|
