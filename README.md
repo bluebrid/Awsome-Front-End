@@ -506,4 +506,11 @@ http://web.jobbole.com/90758/ 表格插件
 |Nginx 系列文章|http://www.nginx.cn/216.html|
 |运维与架构|http://www.nginx.cn/|
 |LUA|http://www.runoob.com/lua/lua-file-io.html|
+
+## QTP
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|QTP Demo地址|http://newtours.demoaut.com/mercuryregister.php|
+|QTP Demo地址|http://blog.163.com/xinyun5_12/blog/static/1728128132013029111444206/|
+|QTP Table|http://blog.csdn.net/anniejunyan/article/details/17279331|
  
