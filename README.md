@@ -109,6 +109,7 @@ http://web.jobbole.com/90758/ 表格插件
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|rem自适应布局-移动端自适应必备:flexible.js|http://caibaojian.com/flexible-js.html|
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
 |HTML5 高级系列：web Storage|https://github.com/lin-xin/blog/issues/11|
 |HTML5 进阶系列：拖放 API 实现拖放排序|https://github.com/lin-xin/blog/issues/13|
