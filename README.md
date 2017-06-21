@@ -138,6 +138,10 @@ http://web.jobbole.com/90758/ 表格插件
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|前端基础进阶（十二）：深入核心，详解事件循环机制|http://www.jianshu.com/p/12b9f73c5a4f#|
+|[JavaScript] Macrotask Queue和Microtask Quque|http://www.jianshu.com/p/3ed992529cfc|
+|Tasks, microtasks, queues and schedules|https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email|
+|Event loop|http://www.jianshu.com/p/1ee6c21f6efa|
 |Airbnb javaScrip 教程|https://github.com/airbnb/javascript|
 |深入理解javascript原型和闭包（完结）|http://www.cnblogs.com/wangfupeng1988/p/3977924.html|
 |JS 面向对象!important|http://www.cnblogs.com/dolphinX/p/4385862.html|
