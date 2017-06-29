@@ -182,6 +182,13 @@ http://web.jobbole.com/90758/ 表格插件
 |Ajax|https://juejin.im/post/58c883ecb123db005311861a?utm_source=gold_browser_extension|
 |JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
 
+## Ramda
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|ramda|http://ramda.cn/docs/|
+|Why ramda|http://www.tuicool.com/articles/ERRj6j|
+
+
 ## Jquery
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
