@@ -411,6 +411,7 @@ http://web.jobbole.com/90758/ 表格插件
 |TCP/IP 三次握手四次挥手 |http://www.cnblogs.com/CBDoctor/archive/2012/10/17/2727073.html|
 |WebSocket与TCP/IP|https://zhuanlan.zhihu.com/p/27021102?refer=dreawer|
 |Ajax 的机制|http://www.cnblogs.com/skylar/p/ajaxCORS.html|
+|DNS原理及其解析过程【精彩剖析】|http://369369.blog.51cto.com/319630/812889/|
 
  
 ## 网站安全
