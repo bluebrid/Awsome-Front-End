@@ -181,6 +181,7 @@ http://web.jobbole.com/90758/ 表格插件
 |ES6 Proxy| http://pinggod.com/2016/%E5%AE%9E%E4%BE%8B%E8%A7%A3%E6%9E%90-ES6-Proxy-%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF/|
 |Ajax|https://juejin.im/post/58c883ecb123db005311861a?utm_source=gold_browser_extension|
 |JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
+|Javascript事件总结|http://www.cnblogs.com/tugenhua0707/p/4501843.html|
 
 ## Ramda
 | 描叙          | 地址           |
