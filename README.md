@@ -64,6 +64,7 @@ http://web.jobbole.com/90758/ 表格插件
 |CSS3 动画(ZXX)|http://www.zhangxinxu.com/wordpress/2010/11/css3-transitions-transforms-animation-introduction/|
 |CSS3 动画卡顿|https://segmentfault.com/a/1190000006708777?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly|
 |CSS3 动画|http://www.w3cplus.com/animation/staggering-animations.html|
+|动画|http://www.alloyteam.com/2017/07/gka/|
 |CSS  详细教程(Importatn)|http://css.doyoe.com/|
 |CSS3 教程|http://www.w3cplus.com/resources/css3-tutorial-and-case|
 |CSS3 scrollbar|https://css-tricks.com/almanac/properties/s/scrollbar/|
@@ -135,6 +136,7 @@ http://web.jobbole.com/90758/ 表格插件
 |H5的FileReader接口|http://www.qdfuns.com/notes/28937/2920927049f9c95fa07d1f6778db9df5.html|
 |HTML精确定位|http://www.qdfuns.com/notes/39242/2b98d90aa3a90501ace6932aab3ea5f3.html|
 |HTML5 API|http://blog.percymong.com/2017/03/09/html5-some-useful-apis/|
+|WEBRTC|https://webkit.org/blog/7763/a-closer-look-into-webrtc/|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -164,6 +166,7 @@ http://web.jobbole.com/90758/ 表格插件
 |正则表达式|http://www.jianshu.com/p/583998f435d0|
 |正则表达式|http://www.jianshu.com/p/db81775d976e|
 |正则表达式|http://louiszhai.github.io/2016/06/13/regexp/#捕获性分组|
+|正则表达式|http://www.lovebxm.com/2017/05/31/RegExp/|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
