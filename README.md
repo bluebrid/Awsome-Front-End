@@ -137,6 +137,7 @@ http://web.jobbole.com/90758/ 表格插件
 |HTML精确定位|http://www.qdfuns.com/notes/39242/2b98d90aa3a90501ace6932aab3ea5f3.html|
 |HTML5 API|http://blog.percymong.com/2017/03/09/html5-some-useful-apis/|
 |WEBRTC|https://webkit.org/blog/7763/a-closer-look-into-webrtc/|
+|精通移动端布局 - 概念篇 -|http://www.cnblogs.com/HCJJ/p/6347242.html|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
