@@ -215,6 +215,7 @@ http://hyuhan.com/archives/ 前端面试
 |NodeJs 核心|https://github.com/ccforward/cc/issues/38|
 |Nodejs|https://github.com/nodejs|
 |NodeJS中文资料|https://github.com/dead-horse/node123|
+|Node Git Book|https://yjhjstz.gitbooks.io/deep-into-node/content/chapter7/chapter7-1.html|
 |Node JS 中文|https://0532.gitbooks.io/nodejs/content/|
 |深入浅出NodeJS|http://www.infoq.com/cn/master-nodejs|
 |Node项目部署|http://willerce.com/post/noderce-deploy-to-appfog/|
