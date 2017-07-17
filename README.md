@@ -422,6 +422,9 @@ http://hyuhan.com/archives/ 前端面试
 |WebSocket与TCP/IP|https://zhuanlan.zhihu.com/p/27021102?refer=dreawer|
 |Ajax 的机制|http://www.cnblogs.com/skylar/p/ajaxCORS.html|
 |DNS原理及其解析过程【精彩剖析】|http://369369.blog.51cto.com/319630/812889/|
+|HTTP 协议 - 简单谈谈 TCP / IP (一)|https://juejin.im/post/596b63196fb9a06b9d5b9c4c?utm_source=gold_browser_extension|
+| 图解HTTP之一--网络基础（TCP/IP、DNS）|http://blog.csdn.net/u014346301/article/details/54315394|
+|HTTP状态码（HTTP Status Code）|http://blog.csdn.net/u014346301/article/details/53995333|
 
  
 ## 网站安全
