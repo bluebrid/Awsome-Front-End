@@ -425,6 +425,7 @@ http://hyuhan.com/archives/ 前端面试
 |HTTP 协议 - 简单谈谈 TCP / IP (一)|https://juejin.im/post/596b63196fb9a06b9d5b9c4c?utm_source=gold_browser_extension|
 | 图解HTTP之一--网络基础（TCP/IP、DNS）|http://blog.csdn.net/u014346301/article/details/54315394|
 |HTTP状态码（HTTP Status Code）|http://blog.csdn.net/u014346301/article/details/53995333|
+|HTTP图解|http://blog.csdn.net/u014346301/article/details/53939872|
 
  
 ## 网站安全
