@@ -306,6 +306,7 @@ http://hyuhan.com/archives/ 前端面试
 |React v16-alpha 从virtual dom 到 dom 源码简读|http://www.cnblogs.com/JhoneLee/p/5886759.html|
 |React 面试|http://johannlai.com/2017/04/09/React-Interview-Questions/|
 |React小书|http://huziketang.com/books/react/lesson5|
+|一张图读懂 React 技术栈|https://github.com/zhuziyi1989/Tools/blob/master/React/%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%20React%20%E6%8A%80%E6%9C%AF%E6%A0%88.png|
 
 |
 ## AngularJS(1.*)
