@@ -331,6 +331,8 @@ http://hyuhan.com/archives/ 前端面试
 |Zone 暴力之美|http://greengerong.com/blog/2016/01/30/zone-dot-js-bao-li-zhi-mei/?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io|
 |AngularJS路由系列(1)--基本路由配置|http://www.cnblogs.com/darrenji/p/4981008.html|
 |NG2|https://juejin.im/post/58e5a9c22f301e00622bf4f1?utm_source=gold_browser_extension|
+|CodeBe(码B)是一个是使用angular2整合各种插件的项目|http://git.oschina.net/zt_zhong/CodeBe|
+|NiceFish-Admin|http://git.oschina.net/mumu-osc/NiceFish-Admin|
 ## Vue
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
