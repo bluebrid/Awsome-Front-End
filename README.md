@@ -211,6 +211,7 @@ http://hyuhan.com/archives/ 前端面试
 ## NodeJs
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|基于 Koa2 的 Node 服务端应用开发框架模板|https://github.com/wxyyxc1992/ServerSideApplication-Development-And-System-Architecture/tree/master/OpenSource/node-server-boilerplate|
 |NodeJS Book |https://yjhjstz.gitbooks.io/deep-into-node/chapter5/chapter5-1.html|
 |Koa2 and Vue|https://juejin.im/user/5781f61fa633bd005b19b4c4|
 |NPM Script|http://www.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/|
@@ -352,6 +353,7 @@ http://hyuhan.com/archives/ 前端面试
 |Vue 路由|https://router.vuejs.org/zh-cn/|
 |Vue Demo|https://github.com/liujians/vue-adminLte-vue-router|
 |Vue Good Demo|https://github.com/shinygang/Vue-cnodejs|
+|vue-mall|https://github.com/yucccc/vue-mall|
 ## Avalon
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
