@@ -141,6 +141,7 @@ http://hyuhan.com/archives/ 前端面试
 |HTML5 API|http://blog.percymong.com/2017/03/09/html5-some-useful-apis/|
 |WEBRTC|https://webkit.org/blog/7763/a-closer-look-into-webrtc/|
 |精通移动端布局 - 概念篇 -|http://www.cnblogs.com/HCJJ/p/6347242.html|
+|Canvas教程|http://www.jianshu.com/c/557837e12317|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
