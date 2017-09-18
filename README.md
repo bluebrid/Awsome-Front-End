@@ -563,5 +563,6 @@ UI https://flatuicolors.com#d35400
 | ------------- |:-------------:|:---------------|
 |总结十个Angular.js由浅入深的面试问题|http://www.jianshu.com/p/7507d7fa7432|
 |我遇到的前端面试题 2017|http://mp.weixin.qq.com/s/O_TTxk2GWj3-RNlVvdD-5w|
+|25 个最基本的 JavaScript 面试问题及答案|https://juejin.im/entry/59b8cb2d6fb9a00a41716109|
  
  
