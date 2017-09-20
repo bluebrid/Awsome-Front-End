@@ -439,6 +439,7 @@ UI https://flatuicolors.com#d35400
 | 图解HTTP之一--网络基础（TCP/IP、DNS）|http://blog.csdn.net/u014346301/article/details/54315394|
 |HTTP状态码（HTTP Status Code）|http://blog.csdn.net/u014346301/article/details/53995333|
 |HTTP图解|http://blog.csdn.net/u014346301/article/details/53939872|
+|从网络通信角度谈web性能优化|https://claiyre.github.io/2017/04/23/%E4%BB%8E%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E8%A7%92%E5%BA%A6%E8%B0%88web%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/|
 
  
 ## 网站安全
@@ -564,5 +565,6 @@ UI https://flatuicolors.com#d35400
 |总结十个Angular.js由浅入深的面试问题|http://www.jianshu.com/p/7507d7fa7432|
 |我遇到的前端面试题 2017|http://mp.weixin.qq.com/s/O_TTxk2GWj3-RNlVvdD-5w|
 |25 个最基本的 JavaScript 面试问题及答案|https://juejin.im/entry/59b8cb2d6fb9a00a41716109|
+|从这两套题，重新认识JS的this、作用域、闭包、对象|https://juejin.im/post/59aa71d56fb9a0248d24fae3|
  
  
