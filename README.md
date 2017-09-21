@@ -196,6 +196,11 @@ UI https://flatuicolors.com#d35400
 |Javascript事件总结|http://www.cnblogs.com/tugenhua0707/p/4501843.html|
 |JavaScript核心概念归纳整理|https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA|
 
+## JS高级
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|一步一步教你 JavaScript 函数式编程（第一部分）|http://www.css88.com/archives/7794|
+|JavaScript 中的 Currying(柯里化) 和 Partial Application(偏函数应用)|http://www.css88.com/archives/7781|
 ## Ramda
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
