@@ -432,6 +432,7 @@ UI https://flatuicolors.com#d35400
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Http2.0 与NodeJS|http://www.zcfy.cc/article/accelerating-node-js-applications-with-http-2-server-push-1105.html|
+|HTTP协议详解（版本一）|http://blog.csdn.net/ppdyhappy/article/details/48808975|
 |Mete List|https://www.qianduan.net/meta-tags-list/|
 |HTTP 解析过程  |http://www.cnblogs.com/wenanry/archive/2010/02/25/1673368.html|
 |Http解析|http://www.jianshu.com/p/80e25cb1d81a|
@@ -459,6 +460,7 @@ UI https://flatuicolors.com#d35400
 |window.name跨域详解|http://blog.xieliqun.com/2016/08/25/windowName-cross-domain/|
 |html5 API postMessage跨域详解|http://blog.xieliqun.com/2016/08/25/postMessage-cross-domain/|
 |网站安全|https://github.com/qazbnm456/awesome-web-security#introductions-xss|
+|深入解析跨站请求伪造漏洞|http://netsecurity.51cto.com/art/200812/102951.htm|
 ## 前端性能优化
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
