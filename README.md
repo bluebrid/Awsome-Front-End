@@ -488,7 +488,7 @@ UI https://flatuicolors.com#d35400
 |Gulp 系列|http://www.w3cplus.com/blog/tags/528.html|
 |Webpack|https://fakefish.github.io/react-webpack-cookbook/Getting-started.html|
 |Webpack|http://www.uprogrammer.cn/webpack-handbook/|
-|WebPack 中文手册|https://webpack.vuefe.cn/concepts/index/|
+|WebPack 中文手册|https://doc.webpack-china.org/configuration/#-|
 \Webpack 中文手册\https://doc.webpack-china.org/guides/get-started/\
 |Gulp Plugs|http://gulpjs.com/plugins/|
 |Webpack|https://github.com/webpack/webpack|
@@ -504,6 +504,8 @@ UI https://flatuicolors.com#d35400
 |NPM !important|https://www.zybuluo.com/yangfch3/note/249328|
 |NPM|https://github.com/icepy/we-writing/issues/36|
 |NPM 镜相|https://npm.taobao.org/|
+|前端面试之webpack篇|https://juejin.im/post/59cb6307f265da064e1f65b9?utm_source=gold_browser_extension|
+ 
 
 ## 优秀的网址
 | 名称          | 地址           |详细描叙       |
