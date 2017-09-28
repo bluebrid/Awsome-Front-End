@@ -505,6 +505,7 @@ UI https://flatuicolors.com#d35400
 |NPM|https://github.com/icepy/we-writing/issues/36|
 |NPM 镜相|https://npm.taobao.org/|
 |前端面试之webpack篇|https://juejin.im/post/59cb6307f265da064e1f65b9?utm_source=gold_browser_extension|
+|深入浅出webpack教程系列(共9篇)|https://juejin.im/entry/59b74efd51882532c85c835e|
  
 
 ## 优秀的网址
