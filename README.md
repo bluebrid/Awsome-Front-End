@@ -321,7 +321,7 @@ UI https://flatuicolors.com#d35400
 |浅谈redux 中间件的原理|http://www.cnblogs.com/JhoneLee/p/5771541.html|
 |React v16-alpha 从virtual dom 到 dom 源码简读|http://www.cnblogs.com/JhoneLee/p/5886759.html|
 |React 面试|http://johannlai.com/2017/04/09/React-Interview-Questions/|
-|React小书|http://huziketang.com/books/react/lesson5|
+|React小书 Redux 实现思路|http://huziketang.com/books/react/lesson5|
 |一张图读懂 React 技术栈|https://github.com/zhuziyi1989/Tools/blob/master/React/%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%20React%20%E6%8A%80%E6%9C%AF%E6%A0%88.png|
 |Redux 学习笔记 - 源码阅读|https://juejin.im/post/59754b63f265da6c2b76c0c9?utm_source=gold_browser_extension|
 
@@ -517,6 +517,7 @@ UI https://flatuicolors.com#d35400
 |NPM 镜相|https://npm.taobao.org/|
 |前端面试之webpack篇|https://juejin.im/post/59cb6307f265da064e1f65b9?utm_source=gold_browser_extension|
 |深入浅出webpack教程系列(共9篇)|https://juejin.im/entry/59b74efd51882532c85c835e|
+|ESLint|http://eslint.cn/|
  
 
 ## 优秀的网址
