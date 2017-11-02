@@ -203,6 +203,7 @@ UI https://flatuicolors.com#d35400
 | ------------- |:-------------:| 
 |一步一步教你 JavaScript 函数式编程（第一部分）|http://www.css88.com/archives/7794|
 |JavaScript 中的 Currying(柯里化) 和 Partial Application(偏函数应用)|http://www.css88.com/archives/7781|
+|JS 函数编程|https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html#一个简单例子|
 ## Ramda
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -458,6 +459,7 @@ UI https://flatuicolors.com#d35400
 |HTTP状态码（HTTP Status Code）|http://blog.csdn.net/u014346301/article/details/53995333|
 |HTTP图解|http://blog.csdn.net/u014346301/article/details/53939872|
 |从网络通信角度谈web性能优化|https://claiyre.github.io/2017/04/23/%E4%BB%8E%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E8%A7%92%E5%BA%A6%E8%B0%88web%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/|
+|探网络系列（1）-TCP三次握手&Render Tree页面渲染=>从输入URL到页面显示的过程？|https://segmentfault.com/a/1190000006921322|
 
  
 ## 网站安全
