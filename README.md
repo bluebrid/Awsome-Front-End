@@ -12,6 +12,8 @@ http://web.jobbole.com/90758/ 表格插件
 http://hyuhan.com/archives/ 前端面试
 http://collectui.com/challenges/email-receipt UI设计
 
+http://megaboilerplate.com/ 生成项目框架
+
 UI https://flatuicolors.com#d35400
 ## MarkDown
 | 描叙          | 地址           |
