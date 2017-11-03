@@ -176,6 +176,7 @@ UI https://flatuicolors.com#d35400
 |正则表达式|http://www.jianshu.com/p/db81775d976e|
 |正则表达式|http://louiszhai.github.io/2016/06/13/regexp/#捕获性分组|
 |正则表达式|http://www.lovebxm.com/2017/05/31/RegExp/|
+|正则表达式 Important|https://juejin.im/post/5965943ff265da6c30653879|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
