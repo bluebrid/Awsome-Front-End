@@ -14,8 +14,15 @@ http://hyuhan.com/archives/ 前端面试
 http://collectui.com/challenges/email-receipt UI设计
 
 http://megaboilerplate.com/ 生成项目框架
+ 
 
-UI https://flatuicolors.com#d35400
+
+## 资源库
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|JS 习题练习| https://scriptoj.com/submitions/5a05497d8ba1c96212c8145a |
+|UI|https://flatuicolors.com#d35400|
+
 ## MarkDown
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
