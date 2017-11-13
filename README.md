@@ -175,13 +175,6 @@ UI https://flatuicolors.com#d35400
 |es6features|https://github.com/lukehoban/es6features|
 |arguments|http://blog.xieliqun.com/2016/08/14/arguments/|
 |原型与原型链|http://shuaihua.cc/article/javascript/prototype-chain.php|
-|正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
-|正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
-|正则表达式|http://www.jianshu.com/p/583998f435d0|
-|正则表达式|http://www.jianshu.com/p/db81775d976e|
-|正则表达式|http://louiszhai.github.io/2016/06/13/regexp/#捕获性分组|
-|正则表达式|http://www.lovebxm.com/2017/05/31/RegExp/|
-|正则表达式 Important|https://juejin.im/post/5965943ff265da6c30653879|
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
@@ -203,7 +196,18 @@ UI https://flatuicolors.com#d35400
 |JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
 |Javascript事件总结|http://www.cnblogs.com/tugenhua0707/p/4501843.html|
 |JavaScript核心概念归纳整理|https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA|
-
+## 正则表达式
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
+|正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
+|正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
+|正则表达式|http://www.jianshu.com/p/583998f435d0|
+|正则表达式|http://www.jianshu.com/p/db81775d976e|
+|正则表达式|http://louiszhai.github.io/2016/06/13/regexp/#捕获性分组|
+|正则表达式|http://www.lovebxm.com/2017/05/31/RegExp/|
+|正则表达式 Important|https://juejin.im/post/5965943ff265da6c30653879|
+|正则调试工具|https://www.debuggex.com/?flavor=javascript#cheatsheet|
+|正则表达式小书|https://zhuanlan.zhihu.com/p/29707385|
 ## JS高级
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
