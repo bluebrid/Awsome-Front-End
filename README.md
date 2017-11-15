@@ -132,6 +132,7 @@ http://megaboilerplate.com/ 生成项目框架
 |SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
 |SVG 快速入门(Path)|https://www.villainhr.com/page/2017/04/17/SVG%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8#线型|
 |SVG 教程|http://www.oxxostudio.tw/articles/201410/svg-tutorial.html|
+|D3.js 教程(important)|http://www.cagrimmett.com/til/2016/08/19/d3-pie-chart.html|
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
