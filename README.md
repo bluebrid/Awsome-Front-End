@@ -129,6 +129,9 @@ http://megaboilerplate.com/ 生成项目框架
 |D3.js入门指南|http://www.jianshu.com/p/c3800c61d2fb|
 |D3 API 中文|https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C|
 |D3 Tutorial|https://www.dashingd3js.com/dynamic-svg-coordinate-space|
+|SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
+|SVG 快速入门(Path)|https://www.villainhr.com/page/2017/04/17/SVG%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8#线型|
+|SVG 教程|http://www.oxxostudio.tw/articles/201410/svg-tutorial.html|
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
@@ -139,7 +142,7 @@ http://megaboilerplate.com/ 生成项目框架
 |H5 最新文章|https://www.html5rocks.com/en/tutorials/?page=1|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
-|SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
+
 
 |H5|http://coderlt.coding.me/2016/02/24/Front-end-sharing/|
 |Notifications|https://w3c-html-ig-zh.github.io/notifications/whatwg/|
