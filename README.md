@@ -127,13 +127,13 @@ http://megaboilerplate.com/ 生成项目框架
 |D3.js|http://www.ourd3js.com/wordpress/category/d3-%E9%AB%98%E7%BA%A7%E7%B3%BB%E5%88%97/|
 |D3 Demo|https://bl.ocks.org/mbostock|
 |D3.js入门指南|http://www.jianshu.com/p/c3800c61d2fb|
-|D3 API 中文|https://github.com/d3/d3/wiki/API--%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C|
+|D3 API 中文|https://github.com/xswei/d3js_doc|
 |D3 Tutorial|https://www.dashingd3js.com/dynamic-svg-coordinate-space|
 |SVG Awesome|https://github.com/jtyjty99999/awesome-svg|
 |SVG 快速入门(Path)|https://www.villainhr.com/page/2017/04/17/SVG%20%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8#线型|
 |SVG 教程|http://www.oxxostudio.tw/articles/201410/svg-tutorial.html|
 |D3.js 教程(important)|http://www.cagrimmett.com/til/2016/08/19/d3-pie-chart.html|
-|D3 in depth|http://d3indepth.com/|
+|D3 in depth|http://d3indepth.com/| 
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
