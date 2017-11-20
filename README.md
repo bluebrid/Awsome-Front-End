@@ -137,6 +137,8 @@ http://megaboilerplate.com/ 生成项目框架
 |SVG 教程|http://www.oxxostudio.tw/articles/201410/svg-tutorial.html|
 |D3.js 教程(important)|http://www.cagrimmett.com/til/2016/08/19/d3-pie-chart.html|
 |D3 in depth|http://d3indepth.com/| 
+|SVG 新司机开车指南|https://zhuanlan.zhihu.com/p/25016633|
+|SVG Tutorials|http://tutorials.jenkov.com/svg/tref-element.html|
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
