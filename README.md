@@ -139,6 +139,7 @@ http://megaboilerplate.com/ 生成项目框架
 |D3 in depth|http://d3indepth.com/| 
 |SVG 新司机开车指南|https://zhuanlan.zhihu.com/p/25016633|
 |SVG Tutorials|http://tutorials.jenkov.com/svg/tref-element.html|
+|突袭HTML5之SVG 2D入门2 - 图形绘制|http://www.cnblogs.com/dxy1982/archive/2012/04/06/2395729.html|
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
