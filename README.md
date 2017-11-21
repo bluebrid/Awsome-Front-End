@@ -140,6 +140,8 @@ http://megaboilerplate.com/ 生成项目框架
 |SVG 新司机开车指南|https://zhuanlan.zhihu.com/p/25016633|
 |SVG Tutorials|http://tutorials.jenkov.com/svg/tref-element.html|
 |突袭HTML5之SVG 2D入门2 - 图形绘制|http://www.cnblogs.com/dxy1982/archive/2012/04/06/2395729.html|
+|A Guide to SVG Animations (SMIL)|https://css-tricks.com/guide-svg-animations-smil/|
+|D3 Animations|http://duspviz.mit.edu/d3-workshop/transitions-animation/|
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
