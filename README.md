@@ -151,9 +151,7 @@ http://megaboilerplate.com/ 生成项目框架
 |HTML5 进阶系列：拖放 API 实现拖放排序|https://github.com/lin-xin/blog/issues/13|
 |H5 最新文章|https://www.html5rocks.com/en/tutorials/?page=1|
 |移动前端知识总结|http://caibaojian.com/mobile-knowledge.html|
-
-
-
+|HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
 |H5|http://coderlt.coding.me/2016/02/24/Front-end-sharing/|
 |Notifications|https://w3c-html-ig-zh.github.io/notifications/whatwg/|
 |H5 Demo|https://developer.mozilla.org/en-US/docs/Web/Demos_of_open_web_technologies|
