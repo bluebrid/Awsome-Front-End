@@ -231,6 +231,7 @@ http://megaboilerplate.com/ 生成项目框架
 |正则表达式 Important|https://juejin.im/post/5965943ff265da6c30653879|
 |正则调试工具|https://www.debuggex.com/?flavor=javascript#cheatsheet|
 |正则表达式小书|https://zhuanlan.zhihu.com/p/29707385|
+|正则表达式有用工具|http://www1.qdfuns.com/tools.php?mod=regex|
 ## JS高级
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
