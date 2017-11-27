@@ -176,6 +176,7 @@ http://megaboilerplate.com/ 生成项目框架
 |精通移动端布局 - 概念篇 -|http://www.cnblogs.com/HCJJ/p/6347242.html|
 |Canvas教程|http://www.jianshu.com/c/557837e12317|
 |Canvas教程|https://airingursb.gitbooks.io/canvas/20.html|
+|Canvas Demo|http://corehtml5canvas.com/#|
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
