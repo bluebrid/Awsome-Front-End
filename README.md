@@ -366,6 +366,7 @@ http://megaboilerplate.com/ 生成项目框架
 |React小书 Redux 实现思路|http://huziketang.com/books/react/lesson5|
 |一张图读懂 React 技术栈|https://github.com/zhuziyi1989/Tools/blob/master/React/%E4%B8%80%E5%BC%A0%E5%9B%BE%E8%AF%BB%E6%87%82%20React%20%E6%8A%80%E6%9C%AF%E6%A0%88.png|
 |Redux 学习笔记 - 源码阅读|https://juejin.im/post/59754b63f265da6c2b76c0c9?utm_source=gold_browser_extension|
+|React minix(高阶组件)|http://blog.csdn.net/future_challenger/article/details/52594372|
 
 |
 ## AngularJS(1.*)
