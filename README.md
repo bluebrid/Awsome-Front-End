@@ -25,6 +25,8 @@ http://megaboilerplate.com/ 生成项目框架
 |font icons|https://icomoon.io/app/#/select|
 |Icons|https://www.iconfinder.com/icon-sets/featured/free|
 |PWA|https://juejin.im/entry/5a1c394a5188255851326da5?utm_source=gold_browser_extension|
+|Google developers|https://developers.google.cn/web/fundamentals/codelabs/|
+|Baidu PWA 方案|https://lavas.baidu.com/|
 
 ## MarkDown
 | 描叙          | 地址           |
