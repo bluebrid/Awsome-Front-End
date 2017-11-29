@@ -310,9 +310,7 @@ http://megaboilerplate.com/ 生成项目框架
 |React同构直出优化总结|https://github.com/joeyguo/blog/issues/9|
 |React 源码|https://github.com/facebook/react/blob/35962a00084382b49d1f9e3bd36612925f360e5b/src/React.js|
 |React 英文官网          | https://facebook.github.io/react|
-|React 中文官网          | http://reactjs.cn/react/docs/top-level-api.html|
-|React 中文官网  |http://wiki.jikexueyuan.com/project/react/communicate.html|
-|React 中文官网  √ |http://www.css88.com/react/docs/top-level-api.html|
+|React 中文官网          |https://doc.react-china.org/|
 |React 入门精讲|http://www.cnblogs.com/yunfeifei/p/4486125.html|
 |React 入门精讲|https://segmentfault.com/a/1190000005140569|
 |React 技术栈系列|http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html|
