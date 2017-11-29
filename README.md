@@ -27,6 +27,7 @@ http://megaboilerplate.com/ 生成项目框架
 |PWA|https://juejin.im/entry/5a1c394a5188255851326da5?utm_source=gold_browser_extension|
 |Google developers|https://developers.google.cn/web/fundamentals/codelabs/|
 |Baidu PWA 方案|https://lavas.baidu.com/|
+|Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
 
 ## MarkDown
 | 描叙          | 地址           |
