@@ -632,6 +632,8 @@ http://megaboilerplate.com/ 生成项目框架
 |POSTMAN|https://github.com/tomfanxiaojun/super-powered-api-testing|
 |POstMan Node|https://documenter.getpostman.com/view/220187/super-tech-heroes-api/77cf6KB#intro|
 |Jmeter|http://www.cnblogs.com/lhly/p/6828161.html|
+|Jmeter|https://www.cnblogs.com/star91/p/5059222.html|
+|Jmeter|http://blog.csdn.net/Dopamy_BusyMonkey/article/details/51149274|
  
  ## 面试
 | 名称          | 地址           |详细描叙       |
