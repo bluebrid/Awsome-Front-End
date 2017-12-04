@@ -566,6 +566,9 @@ http://megaboilerplate.com/ 生成项目框架
 |前端面试之webpack篇|https://juejin.im/post/59cb6307f265da064e1f65b9?utm_source=gold_browser_extension|
 |深入浅出webpack教程系列(共9篇)|https://juejin.im/entry/59b74efd51882532c85c835e|
 |ESLint|http://eslint.cn/|
+|babel到底该如何配置？|http://blog.sfqweb.com/2017/10/22/babel%E5%88%B0%E5%BA%95%E8%AF%A5%E5%A6%82%E4%BD%95%E9%85%8D%E7%BD%AE%EF%BC%9F/|
+|如何写好.babelrc？Babel的presets和plugins配置解析|https://excaliburhan.com/post/babel-preset-and-plugins.html|
+|Babel Handbook|https://github.com/thejameskyle/babel-handbook/blob/master/translations/zh-Hans/user-handbook.md|
  
 
 ## 优秀的网址
