@@ -575,6 +575,7 @@ http://megaboilerplate.com/ 生成项目框架
 |stylelint-config-standard|https://github.com/stylelint/stylelint-config-standard|
 |husky Git hook|https://github.com/typicode/husky|
 |Git Book|https://git-scm.com/book/en/v2|
+|git configuration|http://zcfy.cc/article/better-git-configuration-scott-nonnenberg-3350.html?t=new|
  
 
 ## 优秀的网址
