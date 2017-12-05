@@ -458,6 +458,7 @@ http://megaboilerplate.com/ 生成项目框架
 |Graphql Node MongoDB Demo|https://github.com/RisingStack/graphql-server|
 |全栈 React + GraphQL 教程（一）|http://www.zcfy.cc/article/full-stack-react-graphql-tutorial-apollo-graphql-4341.html?t=new|
 |hackernews-react-graphql ！important|https://github.com/clintonwoo/hackernews-react-graphql|
+|graphql中文|http://graphql.cn/|
 |react-graphql|https://github.com/graphcool-examples/react-graphql/blob/master/quickstart-with-apollo/README.md|
 
 |graphql-server|https://github.com/RisingStack/graphql-server|
