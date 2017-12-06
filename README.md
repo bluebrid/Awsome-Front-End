@@ -210,6 +210,7 @@ http://megaboilerplate.com/ 生成项目框架
 |移动端事件清单|http://www.cnblogs.com/dojo-lzz/p/5452575.html|
 |Promise 机制|http://www.cnblogs.com/dojo-lzz/p/4340897.html|
 |Ajax Fetch|http://javascript.ruanyifeng.com/bom/ajax.html#toc27|
+|深入解析Node.js中5种发起HTTP请求的方法|https://juejin.im/entry/59952c436fb9a0248070ca4d|
 |设计模式|https://github.com/jayli/javascript-patterns/blob/master/chapter6.markdown|
 |JS设计模式 （important）|http://www.codingserf.com/index.php/2015/05/javascript-design-patterns-chain-of-responsibility/|
 |理解javascript观察者模式(订阅者与发布者)|http://www.tuicool.com/articles/Z7ZnErQ|
