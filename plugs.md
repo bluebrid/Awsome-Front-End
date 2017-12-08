@@ -7,6 +7,7 @@
 |dotenv|nodejs|用来加载环境变量到process.env|https://github.com/motdotla/dotenv|
 |nconf|nodejs|用来分层环境变量|https://github.com/indexzero/nconf|
 |cheerio|nodejs|类似Jquery解析html 文档|https://github.com/cheeriojs/cheerio|
+|npm-run-all|NPM|批量执行脚本|https://github.com/mysticatea/npm-run-all|
 |node-schedule|nodejs|nodejs 定时计划|https://github.com/node-schedule/node-schedule|
 |passport|FE|用来授权登录的|https://github.com/jaredhanson/passport|
 |fetch|Ajax|Ajax 请求|https://github.com/github/fetch|
@@ -15,4 +16,5 @@
 |got|Ajax|简单的HTTP请求|https://github.com/sindresorhus/got|
 |isomorphic-fetch|Ajax|基于fetch|https://github.com/matthew-andrews/isomorphic-fetch|
 |emotion|CSS|用js写CSS|https://github.com/emotion-js/emotion|
+|create-react-app|React|搭建React手脚架|https://github.com/facebookincubator/create-react-app|
 
