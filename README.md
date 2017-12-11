@@ -16,8 +16,11 @@ http://collectui.com/challenges/email-receipt UI设计
 http://megaboilerplate.com/ 生成项目框架
  
 ## 需要学习资料
-| 描叙          | 地址           |
-| ------------- |:-------------:| 
+| 描叙          | 地址           |状态|
+| ------------- |:-------------:| :-------------:|
+|Rxjs|http://cn.rx.js.org/manual/index.html||
+|Ramda|http://ramda.cn/docs/||
+|正则表达式|||
 
 
 ## 资源库
