@@ -15,6 +15,9 @@ http://collectui.com/challenges/email-receipt UI设计
 
 http://megaboilerplate.com/ 生成项目框架
  
+## 需要学习资料
+| 描叙          | 地址           |
+| ------------- |:-------------:| 
 
 
 ## 资源库
