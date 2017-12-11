@@ -84,6 +84,7 @@ http://megaboilerplate.com/ 生成项目框架
 ## RxJS/ZoneJS
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Rxjs in action|https://github.com/RxJSInAction/rxjs-in-action#readme|
 |RxJs 教程|https://segmentfault.com/a/1190000004293922|
 |Rxjs 官方教程|https://github.com/Reactive-Extensions/RxJS/blob/master/doc/api/core/operators/amb.md|
 |RXJS|https://segmentfault.com/a/1190000004293922#articleHeader2|
