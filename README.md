@@ -38,6 +38,8 @@ http://megaboilerplate.com/ 生成项目框架
 |Baidu PWA 方案|https://lavas.baidu.com/|
 |PWA Demo|https://github.com/jakearchibald/offline-wikipedia|
 |PWA|https://jakearchibald.com/2014/offline-cookbook/|
+|PWA Message|http://craig-russell.co.uk/2016/01/29/service-worker-messaging.html#.Wi-oakqWaUk|
+|PWA 简介|https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers|
 |Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
 
 ## MarkDown
