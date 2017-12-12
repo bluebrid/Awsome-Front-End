@@ -11,6 +11,7 @@
 |HTML5 API|http://jartto.wang/2016/07/25/make-an-inventory-of-html5-api/#|
 |H5|http://coderlt.coding.me/2016/02/24/Front-end-sharing/|
 |Notifications|https://w3c-html-ig-zh.github.io/notifications/whatwg/|
+|Notifications|https://developers.google.com/web/fundamentals/push-notifications/|
 |H5 Demo|https://developer.mozilla.org/en-US/docs/Web/Demos_of_open_web_technologies|
 |H5 Demo|https://developer.mozilla.org/zh-CN/docs/Web/Guide/HTML/HTML|
 |移动端自适应方案|http://web.jobbole.com/83527/|
