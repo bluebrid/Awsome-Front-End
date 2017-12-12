@@ -36,6 +36,8 @@ http://megaboilerplate.com/ 生成项目框架
 |Google developers|https://developers.google.cn/web/fundamentals/codelabs/|
 |Google Github|https://github.com/googlecodelabs|
 |Baidu PWA 方案|https://lavas.baidu.com/|
+|PWA Demo|https://github.com/jakearchibald/offline-wikipedia|
+|PWA|https://jakearchibald.com/2014/offline-cookbook/|
 |Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
 
 ## MarkDown
