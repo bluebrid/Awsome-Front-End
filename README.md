@@ -32,14 +32,8 @@ http://megaboilerplate.com/ 生成项目框架
 |UI|https://flatuicolors.com#d35400|
 |font icons|https://icomoon.io/app/#/select|
 |Icons|https://www.iconfinder.com/icon-sets/featured/free|
-|PWA|https://juejin.im/entry/5a1c394a5188255851326da5?utm_source=gold_browser_extension|
 |Google developers|https://developers.google.cn/web/fundamentals/codelabs/|
 |Google Github|https://github.com/googlecodelabs|
-|Baidu PWA 方案|https://lavas.baidu.com/|
-|PWA Demo|https://github.com/jakearchibald/offline-wikipedia|
-|PWA|https://jakearchibald.com/2014/offline-cookbook/|
-|PWA Message|http://craig-russell.co.uk/2016/01/29/service-worker-messaging.html#.Wi-oakqWaUk|
-|PWA 简介|https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers|
 |Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
 
 ## MarkDown
