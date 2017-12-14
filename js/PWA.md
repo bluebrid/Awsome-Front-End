@@ -7,7 +7,7 @@
 |PWA|https://jakearchibald.com/2014/offline-cookbook/|
 |PWA Message|http://craig-russell.co.uk/2016/01/29/service-worker-messaging.html#.Wi-oakqWaUk|
 |PWA 简介|https://developer.mozilla.org/zh-CN/docs/Web/API/Service_Worker_API/Using_Service_Workers|
-|The offline cookbook|https://jakearchibald.com/2014/offline-cookbook/#putting-it-together|
+|The offline cookbook|https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/|
 |Service Worker 应用详解|https://lzw.me/a/pwa-service-worker.html|
 |Notification|https://web-push-book.gauntface.com/demos/notification-examples/|
 |serviceworker Tool|chrome://serviceworker-internals/|
