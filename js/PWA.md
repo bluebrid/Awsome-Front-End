@@ -11,3 +11,4 @@
 |Service Worker 应用详解|https://lzw.me/a/pwa-service-worker.html|
 |Notification|https://web-push-book.gauntface.com/demos/notification-examples/|
 |serviceworker Tool|chrome://serviceworker-internals/|
+|pouchdb|https://pouchdb.com/guides/databases.html|
