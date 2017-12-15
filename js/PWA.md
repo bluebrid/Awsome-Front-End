@@ -12,3 +12,4 @@
 |Notification|https://web-push-book.gauntface.com/demos/notification-examples/|
 |serviceworker Tool|chrome://serviceworker-internals/|
 |pouchdb|https://pouchdb.com/guides/databases.html|
+|离线指南|https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa|
