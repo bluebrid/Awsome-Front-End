@@ -34,6 +34,7 @@ http://megaboilerplate.com/ 生成项目框架
 |Icons|https://www.iconfinder.com/icon-sets/featured/free|
 |Google developers|https://developers.google.cn/web/fundamentals/codelabs/|
 |Google Github|https://github.com/googlecodelabs|
+|google chrome|https://github.com/GoogleChrome|
 |Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
 
 ## MarkDown
