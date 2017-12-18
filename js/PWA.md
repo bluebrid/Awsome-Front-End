@@ -13,3 +13,4 @@
 |serviceworker Tool|chrome://serviceworker-internals/|
 |pouchdb|https://pouchdb.com/guides/databases.html|
 |离线指南|https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/offline-for-pwa|
+|Service Workers 与离线缓存|https://segmentfault.com/a/1190000008491458|
