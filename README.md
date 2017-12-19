@@ -23,6 +23,11 @@ http://megaboilerplate.com/ 生成项目框架
 |正则表达式|||
 |PWA|https://juejin.im/entry/5a1c394a5188255851326da5||
 |React 源码|||
+|Web Components|https://developers.google.com/web/fundamentals/web-components/customelements|
+|RTC||
+|SVG||
+|Canvas||
+|设计模式||
 
 
 ## 资源库
