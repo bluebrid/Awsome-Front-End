@@ -18,3 +18,4 @@
 |Vue Demo|https://github.com/liujians/vue-adminLte-vue-router|
 |Vue Good Demo|https://github.com/shinygang/Vue-cnodejs|
 |vue-mall|https://github.com/yucccc/vue-mall|
+|Vue 入门实例|https://juejin.im/post/5a0c191f6fb9a04514639419?utm_source=gold_browser_extension#heading-13|
