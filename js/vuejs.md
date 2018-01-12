@@ -19,3 +19,6 @@
 |Vue Good Demo|https://github.com/shinygang/Vue-cnodejs|
 |vue-mall|https://github.com/yucccc/vue-mall|
 |Vue 入门实例|https://juejin.im/post/5a0c191f6fb9a04514639419?utm_source=gold_browser_extension#heading-13|
+|Vuex VUEX源码学习笔记|https://segmentfault.com/a/1190000011668695|
+|vue开发看这篇文章就够了|https://segmentfault.com/a/1190000012692321|
+|2018 我所了解的 Vue 知识大全（一）|https://zhuanlan.zhihu.com/p/32564918?utm_source=wechat_session&utm_medium=social|
