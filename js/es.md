@@ -3,6 +3,7 @@
 | ------------- |:-------------:| 
 |前端基础进阶（十二）：深入核心，详解事件循环机制|http://www.jianshu.com/p/12b9f73c5a4f#|
 |[JavaScript] Macrotask Queue和Microtask Quque|http://www.jianshu.com/p/3ed992529cfc|
+|Event Loop的规范和实现|https://juejin.im/post/5a6155126fb9a01cb64edb45?utm_source=gold_browser_extension#heading-14|
 |Tasks, microtasks, queues and schedules|https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/?utm_source=html5weekly&utm_medium=email|
 |Event loop|http://www.jianshu.com/p/1ee6c21f6efa|
 |Airbnb javaScrip 教程|https://github.com/airbnb/javascript|
