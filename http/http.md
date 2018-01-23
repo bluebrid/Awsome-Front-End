@@ -19,3 +19,4 @@
 |从网络通信角度谈web性能优化|https://claiyre.github.io/2017/04/23/%E4%BB%8E%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E8%A7%92%E5%BA%A6%E8%B0%88web%E6%80%A7%E8%83%BD%E4%BC%98%E5%8C%96/|
 |探网络系列（1）-TCP三次握手&Render Tree页面渲染=>从输入URL到页面显示的过程？|https://segmentfault.com/a/1190000006921322|
 |cookie、localStorage和sessionStorage|https://juejin.im/post/5a191c47f265da43111fe859?utm_source=gold_browser_extension|
+|一文完全理解HTTPS|http://liushaoqing.me/2018/01/18/https/#more|
