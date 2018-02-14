@@ -20,3 +20,4 @@
 |探网络系列（1）-TCP三次握手&Render Tree页面渲染=>从输入URL到页面显示的过程？|https://segmentfault.com/a/1190000006921322|
 |cookie、localStorage和sessionStorage|https://juejin.im/post/5a191c47f265da43111fe859?utm_source=gold_browser_extension|
 |一文完全理解HTTPS|http://liushaoqing.me/2018/01/18/https/#more|
+|设计师图解TCP连接过程|https://juejin.im/post/5a7fea206fb9a06333151e99|
