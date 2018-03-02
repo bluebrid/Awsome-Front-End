@@ -24,3 +24,4 @@
 |2018 我所了解的 Vue 知识大全（一）|https://zhuanlan.zhihu.com/p/32564918?utm_source=wechat_session&utm_medium=social|
 |Vue.js 源码解析 |https://github.com/answershuto/learnVue|
 |Vuex|https://juejin.im/post/5a7278dc6fb9a01c9c1f59e7|
+|Vue组件编写流程 |https://juejin.im/post/5a105bed6fb9a0451e3f61fb|
