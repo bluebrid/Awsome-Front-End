@@ -40,3 +40,5 @@
 |husky Git hook|https://github.com/typicode/husky|
 |Git Book|https://git-scm.com/book/en/v2|
 |git configuration|http://zcfy.cc/article/better-git-configuration-scott-nonnenberg-3350.html?t=new|
+|带你走进webpack世界，成为webpack头号玩家。|https://juejin.im/post/5ac9dc9af265da23884d5543?utm_source=gold_browser_extension#heading-1|
+
