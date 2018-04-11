@@ -46,3 +46,4 @@
 |JS Fetch|http://coderlt.coding.me/2016/11/20/JS-Feach/|
 |Javascript事件总结|http://www.cnblogs.com/tugenhua0707/p/4501843.html|
 |JavaScript核心概念归纳整理|https://mp.weixin.qq.com/s/I7A1iC8Et6uOGZ234DsTlA|
+|面试官系列(2):如何实现一个Event|https://juejin.im/post/5ac2fb886fb9a028b86e328c|
