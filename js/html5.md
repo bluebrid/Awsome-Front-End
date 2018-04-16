@@ -2,6 +2,7 @@
 ## HTML5
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Rem 自适应布局|http://www.alloyteam.com/2016/03/mobile-web-adaptation-tool-rem/|
 |rem自适应布局-移动端自适应必备:flexible.js|http://caibaojian.com/flexible-js.html|
 |HTML5 优秀的后台模板(学习代码)|https://xituqu.com/542.html|
 |HTML5 高级系列：web Storage|https://github.com/lin-xin/blog/issues/11|
