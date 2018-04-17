@@ -1,6 +1,7 @@
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Jenkins打造强大的前端自动化工作流|https://juejin.im/post/5ad1980e6fb9a028c42ea1be|
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 |Gulp learn|https://github.com/demohi/learning-gulp|
 |Gulp 重要实践|http://www.cnblogs.com/QRL909109/p/5620824.html|
