@@ -1,6 +1,7 @@
 ## JavaScript(ES6)
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|ES6 In Depth Articles|https://hacks.mozilla.org/category/es6-in-depth/|
 |这一次，彻底弄懂 JavaScript 执行机制|https://juejin.im/post/59e85eebf265da430d571f89|
 |前端基础进阶（十二）：深入核心，详解事件循环机制|http://www.jianshu.com/p/12b9f73c5a4f#|
 |[JavaScript] Macrotask Queue和Microtask Quque|http://www.jianshu.com/p/3ed992529cfc|
