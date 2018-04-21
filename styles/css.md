@@ -1,6 +1,7 @@
 ## CSS3
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|Css 变量|https://www.w3cplus.com/css3/css-properties-in-depth.html|
 |Css Grid Playground|https://www.cssgridplayground.com/|
 |CSS Grid布局指南|https://www.w3cplus.com/css3/a-complete-guide-css-grid-layout.html|
 |Fr unit|https://css-tricks.com/introduction-fr-css-unit/|
