@@ -1,6 +1,7 @@
 ## Tools
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|webpack4-用之初体验，一起敲它十一遍|https://juejin.im/post/5adea0106fb9a07a9d6ff6de?utm_source=gold_browser_extension|
 |Jenkins打造强大的前端自动化工作流|https://juejin.im/post/5ad1980e6fb9a028c42ea1be|
 |Fiddle|http://www.aliued.cn/2010/04/25/use-fiddler-to-improve-efficiency-of-front-development-example.html|
 |Gulp learn|https://github.com/demohi/learning-gulp|
