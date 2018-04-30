@@ -1,6 +1,8 @@
 ## 正则表达式
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
+|常用正则表达式|http://www.css88.com/archives/7991/comment-page-1|
+| Regulex 正则表达式可视化工具|https://jex.im/regulex/|
 |正则表达式|http://www.cnblogs.com/dolphinX/p/3486214.html|
 |正则表达式|http://www.cnblogs.com/rubylouvre/archive/2010/03/09/1681222.html|
 |正则表达式|http://www.jianshu.com/p/583998f435d0|
