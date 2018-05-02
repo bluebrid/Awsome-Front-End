@@ -26,3 +26,4 @@
 |Vuex|https://juejin.im/post/5a7278dc6fb9a01c9c1f59e7|
 |Vue组件编写流程 |https://juejin.im/post/5a105bed6fb9a0451e3f61fb|
 |Vue 项目|https://github.com/KieSun/Vue-StudyMaps|
+|当面试官问你Vue响应式原理，你可以这么回答他|https://juejin.im/post/5adf0085518825673123da9a?utm_source=gold_browser_extension#comment|
