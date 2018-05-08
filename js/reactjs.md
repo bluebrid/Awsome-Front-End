@@ -1,6 +1,7 @@
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:|
+|React 模式|http://sangka-z.com/react-in-patterns-cn/|
 |React 全栈项目|https://github.com/tomfanxiaojun/Chat-Buy-React|
 |《React源码解析》系列完结！|https://juejin.im/post/5a84682ef265da4e83266cc4|
 |React 源码阅读方法|https://github.com/xieyu/blog/blob/master/React/from-jsx-to-dom.md|
