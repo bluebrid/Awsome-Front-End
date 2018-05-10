@@ -43,6 +43,7 @@ https://github.com/KieSun/Front-end-knowledge/blob/master/2018/4%E6%9C%88/knowle
 |Google Github|https://github.com/googlecodelabs|
 |google chrome|https://github.com/GoogleChrome|
 |Node JS 微信开发|http://www.shuaihua.cc/article/1504615030603|
+|Linux|https://console.cloud.google.com/cloudshell/editor?pli=1|
 
 ## MarkDown
 | 描叙          | 地址           |
