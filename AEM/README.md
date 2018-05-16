@@ -3,6 +3,7 @@
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Jquery 插件编写|http://1ke.co/course/760|
+|Class: GuideBridge|https://helpx.adobe.com/experience-manager/6-2/forms/javascript-api/GuideBridge.html#connect__anchor|
  
 
 ## OSGi
