@@ -9,3 +9,4 @@
 | 基于lettuce的BDD自动化测试框架Demo|https://github.com/qddegtya/Lub|
 |Lettuce demo|https://blog.csdn.net/mosesaaron/article/details/70227444|
 |Calabash is a BDD framework for iOS and Android|https://github.com/calabash|
+|lettuce webdriver 自动化测试---玩转BDD|http://www.cnblogs.com/fnng/p/3714394.html|
