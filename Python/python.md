@@ -6,3 +6,5 @@
 |selenium测试报告|https://github.com/yoyoketang/selenium_report_python|
 |selenium测试报告|https://github.com/GoverSky/HTMLTestRunner_cn|
 |selenium 学习|http://www.cnblogs.com/yoyoketang/tag/selenium/|
+| 基于lettuce的BDD自动化测试框架Demo|https://github.com/qddegtya/Lub|
+|Calabash is a BDD framework for iOS and Android|https://github.com/calabash|
