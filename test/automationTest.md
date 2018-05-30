@@ -11,3 +11,5 @@
 |Jmeter|http://www.cnblogs.com/lhly/p/6828161.html|
 |Jmeter|https://www.cnblogs.com/star91/p/5059222.html|
 |Jmeter|http://blog.csdn.net/Dopamy_BusyMonkey/article/details/51149274|
+|Jmeter|http://www.cnblogs.com/ceshisanren/p/5639895.html|
+|TestNG|https://www.yiibai.com/testng/testng-groups.html|
