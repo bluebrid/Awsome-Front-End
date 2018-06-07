@@ -10,3 +10,5 @@
 |Lettuce demo|https://blog.csdn.net/mosesaaron/article/details/70227444|
 |Calabash is a BDD framework for iOS and Android|https://github.com/calabash|
 |lettuce webdriver 自动化测试---玩转BDD|http://www.cnblogs.com/fnng/p/3714394.html|
+|26 篇 Django 入门教程终于完工，附目录索引|https://www.zmrenwu.com/post/2/|
+|26 篇 Django 入门教程终于完工，附目录索引|https://juejin.im/post/59489de7128fe1006a576ddc|
