@@ -1,6 +1,7 @@
 ## React
 | 描叙          | 地址           |
 | ------------- |:-------------:|
+|React 知识梳理（三）：手写一个自己的 React-redux|https://juejin.im/post/5b07d3986fb9a07aa114a102?utm_source=gold_browser_extension|
 |React 模式|http://sangka-z.com/react-in-patterns-cn/|
 |React 全栈项目|https://github.com/tomfanxiaojun/Chat-Buy-React|
 |《React源码解析》系列完结！|https://juejin.im/post/5a84682ef265da4e83266cc4|
