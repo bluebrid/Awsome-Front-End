@@ -10,13 +10,17 @@ http://www.uisdc.com/frontend-quick-search-sheet Front-End check sheet
 
 http://caibaojian.com/toutiao/5571 前端重要资源
 http://web.jobbole.com/90758/ 表格插件
-http://hyuhan.com/archives/ 前端面试
+ 前端面试
 http://collectui.com/challenges/email-receipt UI设计
 
 http://megaboilerplate.com/ 生成项目框架
 Front-end-knowledge
 https://github.com/KieSun/Front-end-knowledge/blob/master/2018/4%E6%9C%88/knowledge.md  
- 
+ ## 面试
+| 描叙          | 地址           |状态|
+| ------------- |:-------------:| :-------------:|
+||http://hyuhan.com/archives/||
+|鹅厂视频部笔试及面试问题整理|https://juejin.im/post/5b2cd3f7e51d4558a75e857a|
 ## 需要学习资料
 | 描叙          | 地址           |状态|
 | ------------- |:-------------:| :-------------:|
