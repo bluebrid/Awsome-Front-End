@@ -2,6 +2,7 @@
 | 描叙          | 地址           |
 | ------------- |:-------------:| 
 |Vue 完整项目|https://github.com/acm309/PutongOJ|
+|Vue 全家桶，深入Vue 的世界|https://juejin.im/entry/5b37a24c6fb9a00e52399716?utm_source=gold_browser_extension|
 |你或许不知道Vue的这些小技巧|https://juejin.im/post/5b1230c1f265da6e603933ad|
 |Vue 官网|https://vuejs.org.cn/guide/installation.html|
 |Vue 2.0 中文|http://vuefe.cn/guide/|
