@@ -6,10 +6,15 @@
 |QTP Table|http://blog.csdn.net/anniejunyan/article/details/17279331|
 |VB Playground|https://dotnetfiddle.net/Account/MyFiddles|
 |VBA|https://www.tutorialspoint.com/vba/vba_programming_charts.htm|
-|POSTMAN|https://github.com/tomfanxiaojun/super-powered-api-testing|
-|POstMan Node|https://documenter.getpostman.com/view/220187/super-tech-heroes-api/77cf6KB#intro|
 |Jmeter|http://www.cnblogs.com/lhly/p/6828161.html|
 |Jmeter|https://www.cnblogs.com/star91/p/5059222.html|
 |Jmeter|http://blog.csdn.net/Dopamy_BusyMonkey/article/details/51149274|
 |Jmeter|http://www.cnblogs.com/ceshisanren/p/5639895.html|
 |TestNG|https://www.yiibai.com/testng/testng-groups.html|
+
+## POSTMAN
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|POSTMAN|https://github.com/tomfanxiaojun/super-powered-api-testing|
+|POstMan Node|https://documenter.getpostman.com/view/220187/super-tech-heroes-api/77cf6KB#intro|
+|NEWMAN|https://www.npmjs.com/package/newman|
