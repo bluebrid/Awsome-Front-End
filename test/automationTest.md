@@ -29,8 +29,8 @@
 |juejin|https://juejin.im/entry/56a6da58128fe100516b3d0f
 |ruby en tool|https://www.jianshu.com/p/70d674bffd12
 |Ruby 破解 Working Server|http://jetbrains.license.laucyun.com (Lower of 2017.3)
-http://52.13.243.210:8000 (All version, especially 2018.1.6)
-http://66.42.52.162:8000 (All version, especially 2018.1.6)
+|Ruby 破解 Working Server|http://52.13.243.210:8000 (All version, especially 2018.1.6)
+|Ruby 破解 Working Server|http://66.42.52.162:8000 (All version, especially 2018.1.6)
 
 
 
@@ -50,14 +50,14 @@ fishyu.ct@oyohotels.cn
 | ------------- |:-------------:|:---------------|
 |抓包工具|分享抓包软件：https://www.charlesproxy.com/
 
-Charles其实是一款代理服务器，通过过将自己设置成系统（电脑或者浏览器）的网络访问代理服务器，然后截取请求和请求结果达到分析抓包的目的。该软件是用Java写的，能够在Windows，Mac，Linux上使用。安装Charles的时候要先装好Java环境。
-Charles的主要功能：
-（1）截取Http 和 Https 网络封包。
-（2）支持重发网络请求，方便后端调试。
-（3）支持修改网络请求参数。
-（4）支持网络请求的截获并动态修改。
-（5）支持模拟慢速网络。
+|抓包工具|Charles其实是一款代理服务器，通过过将自己设置成系统（电脑或者浏览器）的网络访问代理服务器，然后截取请求和请求结果达到分析抓包的目的。该软件是用Java写的，能够在Windows，Mac，Linux上使用。安装Charles的时候要先装好Java环境。
+|抓包工具|Charles的主要功能：
+|抓包工具|（1）截取Http 和 Https 网络封包。
+|抓包工具|（2）支持重发网络请求，方便后端调试。
+|抓包工具|（3）支持修改网络请求参数。
+|抓包工具|（4）支持网络请求的截获并动态修改。
+|抓包工具|（5）支持模拟慢速网络。
 
-注册码：
-Registered Name: https://zhile.io
-License Key: 48891cf209c6d32bf4
+|抓包工具|注册码：
+|抓包工具|Registered Name: https://zhile.io
+|抓包工具|License Key: 48891cf209c6d32bf4
