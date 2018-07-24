@@ -18,3 +18,18 @@
 |POSTMAN|https://github.com/tomfanxiaojun/super-powered-api-testing|
 |POstMan Node|https://documenter.getpostman.com/view/220187/super-tech-heroes-api/77cf6KB#intro|
 |NEWMAN|https://www.npmjs.com/package/newman|
+|Postman|https://www.getpostman.com/docs/v6/postman/scripts/postman_sandbox_api_reference
+
+## Ruby
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|ruby|http://www.runoob.com/ruby/ruby-datatypes.html
+|Jason tool|http://jsoneditoronline.org/index.html
+|ruby|https://ruby-china.github.io/rails-guides/active_record_validations.html
+|juejin|https://juejin.im/entry/56a6da58128fe100516b3d0f
+|ruby en tool|https://www.jianshu.com/p/70d674bffd12
+
+## Git
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+|git|https://git-scm.com/book/zh/v1/Git-%E5%9F%BA%E7%A1%80-%E5%8F%96%E5%BE%97%E9%A1%B9%E7%9B%AE%E7%9A%84-Git-%E4%BB%93%E5%BA%93
