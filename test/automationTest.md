@@ -28,6 +28,17 @@
 |ruby|https://ruby-china.github.io/rails-guides/active_record_validations.html
 |juejin|https://juejin.im/entry/56a6da58128fe100516b3d0f
 |ruby en tool|https://www.jianshu.com/p/70d674bffd12
+|Ruby 破解 Working Server|http://jetbrains.license.laucyun.com (Lower of 2017.3)
+http://52.13.243.210:8000 (All version, especially 2018.1.6)
+http://66.42.52.162:8000 (All version, especially 2018.1.6)
+
+
+
+## OYO Jira number
+| 名称          | 地址           |详细描叙       |
+| ------------- |:-------------:|:---------------|
+fishyu.ct@oyohotels.cn
+3964058yuLEI
 
 ## Git
 | 名称          | 地址           |详细描叙       |
