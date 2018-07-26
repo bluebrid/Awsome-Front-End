@@ -31,6 +31,7 @@
 |Ruby 破解 Working Server|http://jetbrains.license.laucyun.com (Lower of 2017.3)
 |Ruby 破解 Working Server|http://52.13.243.210:8000 (All version, especially 2018.1.6)
 |Ruby 破解 Working Server|http://66.42.52.162:8000 (All version, especially 2018.1.6)
+|RubyExcel|https://github.com/randym/axlsx
 
 
 
