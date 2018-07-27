@@ -33,6 +33,7 @@
 |Ruby 破解 Working Server|http://66.42.52.162:8000 (All version, especially 2018.1.6)
 |RubyExcel|https://github.com/randym/axlsx
 |移动端UI自动化测试|https://github.com/SilongLi/AutoTestDemo|
+|Ruby Demo|https://github.com/VitoMendoza/CucumberRubyAutomationProject|
 
 
 
